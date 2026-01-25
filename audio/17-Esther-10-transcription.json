@@ -1,0 +1,634 @@
+{
+  "words": [
+    {
+      "segentID": 0,
+      "word": "Chapter",
+      "start": 0.0,
+      "end": 1.04
+    },
+    {
+      "segentID": 0,
+      "word": "10.",
+      "start": 1.04,
+      "end": 2.3
+    },
+    {
+      "segentID": 0,
+      "word": "King",
+      "start": 2.7,
+      "end": 2.84
+    },
+    {
+      "segentID": 0,
+      "word": "Ahasuerus",
+      "start": 2.84,
+      "end": 3.62
+    },
+    {
+      "segentID": 0,
+      "word": "then",
+      "start": 3.62,
+      "end": 3.92
+    },
+    {
+      "segentID": 0,
+      "word": "imposed",
+      "start": 3.92,
+      "end": 4.36
+    },
+    {
+      "segentID": 0,
+      "word": "forced",
+      "start": 4.36,
+      "end": 4.86
+    },
+    {
+      "segentID": 0,
+      "word": "labor",
+      "start": 4.86,
+      "end": 5.18
+    },
+    {
+      "segentID": 0,
+      "word": "on",
+      "start": 5.18,
+      "end": 5.38
+    },
+    {
+      "segentID": 0,
+      "word": "the",
+      "start": 5.38,
+      "end": 5.58
+    },
+    {
+      "segentID": 0,
+      "word": "land",
+      "start": 5.58,
+      "end": 5.8
+    },
+    {
+      "segentID": 0,
+      "word": "and",
+      "start": 5.8,
+      "end": 6.0
+    },
+    {
+      "segentID": 0,
+      "word": "on",
+      "start": 6.0,
+      "end": 6.2
+    },
+    {
+      "segentID": 0,
+      "word": "the",
+      "start": 6.2,
+      "end": 6.38
+    },
+    {
+      "segentID": 0,
+      "word": "coastlands",
+      "start": 6.38,
+      "end": 6.82
+    },
+    {
+      "segentID": 0,
+      "word": "of",
+      "start": 6.82,
+      "end": 7.02
+    },
+    {
+      "segentID": 0,
+      "word": "the",
+      "start": 7.02,
+      "end": 7.22
+    },
+    {
+      "segentID": 0,
+      "word": "sea.",
+      "start": 7.22,
+      "end": 7.56
+    },
+    {
+      "segentID": 1,
+      "word": "Now",
+      "start": 8.04,
+      "end": 8.38
+    },
+    {
+      "segentID": 1,
+      "word": "all",
+      "start": 8.38,
+      "end": 8.64
+    },
+    {
+      "segentID": 1,
+      "word": "the",
+      "start": 8.64,
+      "end": 8.86
+    },
+    {
+      "segentID": 1,
+      "word": "actions",
+      "start": 8.86,
+      "end": 9.2
+    },
+    {
+      "segentID": 1,
+      "word": "carried",
+      "start": 9.2,
+      "end": 9.58
+    },
+    {
+      "segentID": 1,
+      "word": "out",
+      "start": 9.58,
+      "end": 9.8
+    },
+    {
+      "segentID": 1,
+      "word": "under",
+      "start": 9.8,
+      "end": 10.0
+    },
+    {
+      "segentID": 1,
+      "word": "his",
+      "start": 10.0,
+      "end": 10.24
+    },
+    {
+      "segentID": 1,
+      "word": "authority",
+      "start": 10.24,
+      "end": 10.8
+    },
+    {
+      "segentID": 1,
+      "word": "and",
+      "start": 10.8,
+      "end": 11.14
+    },
+    {
+      "segentID": 1,
+      "word": "his",
+      "start": 11.14,
+      "end": 11.42
+    },
+    {
+      "segentID": 1,
+      "word": "great",
+      "start": 11.42,
+      "end": 11.74
+    },
+    {
+      "segentID": 1,
+      "word": "achievements,",
+      "start": 11.74,
+      "end": 12.38
+    },
+    {
+      "segentID": 2,
+      "word": "along",
+      "start": 12.82,
+      "end": 13.2
+    },
+    {
+      "segentID": 2,
+      "word": "with",
+      "start": 13.2,
+      "end": 13.42
+    },
+    {
+      "segentID": 2,
+      "word": "an",
+      "start": 13.42,
+      "end": 13.64
+    },
+    {
+      "segentID": 2,
+      "word": "exact",
+      "start": 13.64,
+      "end": 14.08
+    },
+    {
+      "segentID": 2,
+      "word": "statement",
+      "start": 14.08,
+      "end": 14.5
+    },
+    {
+      "segentID": 2,
+      "word": "concerning",
+      "start": 14.5,
+      "end": 15.02
+    },
+    {
+      "segentID": 2,
+      "word": "the",
+      "start": 15.02,
+      "end": 15.32
+    },
+    {
+      "segentID": 2,
+      "word": "greatness",
+      "start": 15.32,
+      "end": 15.6
+    },
+    {
+      "segentID": 2,
+      "word": "of",
+      "start": 15.6,
+      "end": 15.88
+    },
+    {
+      "segentID": 2,
+      "word": "Mordecai,",
+      "start": 15.88,
+      "end": 16.6
+    },
+    {
+      "segentID": 2,
+      "word": "whom",
+      "start": 16.78,
+      "end": 16.84
+    },
+    {
+      "segentID": 2,
+      "word": "the",
+      "start": 16.84,
+      "end": 17.06
+    },
+    {
+      "segentID": 2,
+      "word": "king",
+      "start": 17.06,
+      "end": 17.24
+    },
+    {
+      "segentID": 2,
+      "word": "promoted.",
+      "start": 17.24,
+      "end": 17.72
+    },
+    {
+      "segentID": 3,
+      "word": "Are",
+      "start": 18.32,
+      "end": 18.48
+    },
+    {
+      "segentID": 3,
+      "word": "they",
+      "start": 18.48,
+      "end": 18.66
+    },
+    {
+      "segentID": 3,
+      "word": "not",
+      "start": 18.66,
+      "end": 18.9
+    },
+    {
+      "segentID": 3,
+      "word": "written",
+      "start": 18.9,
+      "end": 19.08
+    },
+    {
+      "segentID": 3,
+      "word": "in",
+      "start": 19.08,
+      "end": 19.26
+    },
+    {
+      "segentID": 3,
+      "word": "the",
+      "start": 19.26,
+      "end": 19.42
+    },
+    {
+      "segentID": 3,
+      "word": "book",
+      "start": 19.42,
+      "end": 19.56
+    },
+    {
+      "segentID": 3,
+      "word": "of",
+      "start": 19.56,
+      "end": 19.72
+    },
+    {
+      "segentID": 3,
+      "word": "the",
+      "start": 19.72,
+      "end": 19.92
+    },
+    {
+      "segentID": 3,
+      "word": "Chronicles",
+      "start": 19.92,
+      "end": 20.26
+    },
+    {
+      "segentID": 3,
+      "word": "of",
+      "start": 20.26,
+      "end": 20.46
+    },
+    {
+      "segentID": 3,
+      "word": "the",
+      "start": 20.46,
+      "end": 20.62
+    },
+    {
+      "segentID": 3,
+      "word": "Kings",
+      "start": 20.62,
+      "end": 20.92
+    },
+    {
+      "segentID": 3,
+      "word": "of",
+      "start": 20.92,
+      "end": 21.12
+    },
+    {
+      "segentID": 3,
+      "word": "Media",
+      "start": 21.12,
+      "end": 21.46
+    },
+    {
+      "segentID": 3,
+      "word": "and",
+      "start": 21.46,
+      "end": 21.72
+    },
+    {
+      "segentID": 3,
+      "word": "Persia?",
+      "start": 21.72,
+      "end": 22.24
+    },
+    {
+      "segentID": 4,
+      "word": "Mordecai",
+      "start": 22.74,
+      "end": 23.22
+    },
+    {
+      "segentID": 4,
+      "word": "the",
+      "start": 23.22,
+      "end": 23.4
+    },
+    {
+      "segentID": 4,
+      "word": "Jew",
+      "start": 23.4,
+      "end": 23.6
+    },
+    {
+      "segentID": 4,
+      "word": "was",
+      "start": 23.6,
+      "end": 23.86
+    },
+    {
+      "segentID": 4,
+      "word": "second",
+      "start": 23.86,
+      "end": 24.08
+    },
+    {
+      "segentID": 4,
+      "word": "only",
+      "start": 24.08,
+      "end": 24.54
+    },
+    {
+      "segentID": 4,
+      "word": "to",
+      "start": 24.54,
+      "end": 24.74
+    },
+    {
+      "segentID": 4,
+      "word": "King",
+      "start": 24.74,
+      "end": 24.98
+    },
+    {
+      "segentID": 4,
+      "word": "Ahasuerus.",
+      "start": 24.98,
+      "end": 26.18
+    },
+    {
+      "segentID": 4,
+      "word": "He",
+      "start": 26.34,
+      "end": 26.64
+    },
+    {
+      "segentID": 4,
+      "word": "was",
+      "start": 26.64,
+      "end": 26.84
+    },
+    {
+      "segentID": 4,
+      "word": "the",
+      "start": 26.84,
+      "end": 27.08
+    },
+    {
+      "segentID": 4,
+      "word": "highest",
+      "start": 27.08,
+      "end": 27.52
+    },
+    {
+      "segentID": 4,
+      "word": "ranking",
+      "start": 27.52,
+      "end": 27.9
+    },
+    {
+      "segentID": 4,
+      "word": "Jew,",
+      "start": 27.9,
+      "end": 28.3
+    },
+    {
+      "segentID": 5,
+      "word": "and",
+      "start": 28.3,
+      "end": 28.76
+    },
+    {
+      "segentID": 5,
+      "word": "he",
+      "start": 28.76,
+      "end": 28.94
+    },
+    {
+      "segentID": 5,
+      "word": "was",
+      "start": 28.94,
+      "end": 29.18
+    },
+    {
+      "segentID": 5,
+      "word": "admired",
+      "start": 29.18,
+      "end": 29.62
+    },
+    {
+      "segentID": 5,
+      "word": "by",
+      "start": 29.62,
+      "end": 29.94
+    },
+    {
+      "segentID": 5,
+      "word": "his",
+      "start": 29.94,
+      "end": 30.16
+    },
+    {
+      "segentID": 5,
+      "word": "numerous",
+      "start": 30.16,
+      "end": 30.6
+    },
+    {
+      "segentID": 5,
+      "word": "relatives.",
+      "start": 30.6,
+      "end": 31.16
+    },
+    {
+      "segentID": 5,
+      "word": "He",
+      "start": 31.8,
+      "end": 31.94
+    },
+    {
+      "segentID": 5,
+      "word": "worked",
+      "start": 31.94,
+      "end": 32.22
+    },
+    {
+      "segentID": 5,
+      "word": "enthusiastically",
+      "start": 32.22,
+      "end": 33.18
+    },
+    {
+      "segentID": 5,
+      "word": "for",
+      "start": 33.18,
+      "end": 33.44
+    },
+    {
+      "segentID": 5,
+      "word": "the",
+      "start": 33.44,
+      "end": 33.62
+    },
+    {
+      "segentID": 5,
+      "word": "good",
+      "start": 33.62,
+      "end": 33.7
+    },
+    {
+      "segentID": 5,
+      "word": "of",
+      "start": 33.7,
+      "end": 33.92
+    },
+    {
+      "segentID": 5,
+      "word": "his",
+      "start": 33.92,
+      "end": 34.12
+    },
+    {
+      "segentID": 6,
+      "word": "people",
+      "start": 34.12,
+      "end": 34.52
+    },
+    {
+      "segentID": 6,
+      "word": "and",
+      "start": 34.52,
+      "end": 34.9
+    },
+    {
+      "segentID": 6,
+      "word": "was",
+      "start": 34.9,
+      "end": 35.1
+    },
+    {
+      "segentID": 6,
+      "word": "an",
+      "start": 35.1,
+      "end": 35.42
+    },
+    {
+      "segentID": 6,
+      "word": "advocate",
+      "start": 35.42,
+      "end": 35.72
+    },
+    {
+      "segentID": 6,
+      "word": "for",
+      "start": 35.72,
+      "end": 36.02
+    },
+    {
+      "segentID": 6,
+      "word": "the",
+      "start": 36.02,
+      "end": 36.18
+    },
+    {
+      "segentID": 6,
+      "word": "welfare",
+      "start": 36.18,
+      "end": 36.54
+    },
+    {
+      "segentID": 6,
+      "word": "of",
+      "start": 36.54,
+      "end": 36.86
+    },
+    {
+      "segentID": 6,
+      "word": "all",
+      "start": 36.86,
+      "end": 37.06
+    },
+    {
+      "segentID": 6,
+      "word": "his",
+      "start": 37.06,
+      "end": 37.34
+    },
+    {
+      "segentID": 6,
+      "word": "descendants.",
+      "start": 37.34,
+      "end": 37.82
+    }
+  ]
+}
