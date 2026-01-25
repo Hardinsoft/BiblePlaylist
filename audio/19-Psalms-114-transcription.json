@@ -1,0 +1,580 @@
+{
+  "words": [
+    {
+      "segentID": 0,
+      "word": ".",
+      "start": 3.459999999999998,
+      "end": 4.38
+    },
+    {
+      "segentID": 1,
+      "word": "Psalm",
+      "start": 5.0,
+      "end": 5.52
+    },
+    {
+      "segentID": 1,
+      "word": "114.",
+      "start": 5.52,
+      "end": 6.92
+    },
+    {
+      "segentID": 2,
+      "word": "When",
+      "start": 8.66,
+      "end": 8.92
+    },
+    {
+      "segentID": 2,
+      "word": "Israel",
+      "start": 8.92,
+      "end": 9.42
+    },
+    {
+      "segentID": 2,
+      "word": "left",
+      "start": 9.42,
+      "end": 9.8
+    },
+    {
+      "segentID": 2,
+      "word": "Egypt,",
+      "start": 9.8,
+      "end": 10.62
+    },
+    {
+      "segentID": 3,
+      "word": "when",
+      "start": 11.24,
+      "end": 11.38
+    },
+    {
+      "segentID": 3,
+      "word": "the",
+      "start": 11.38,
+      "end": 11.54
+    },
+    {
+      "segentID": 3,
+      "word": "family",
+      "start": 11.54,
+      "end": 11.88
+    },
+    {
+      "segentID": 3,
+      "word": "of",
+      "start": 11.88,
+      "end": 12.12
+    },
+    {
+      "segentID": 3,
+      "word": "Jacob",
+      "start": 12.12,
+      "end": 12.42
+    },
+    {
+      "segentID": 3,
+      "word": "left",
+      "start": 12.42,
+      "end": 12.78
+    },
+    {
+      "segentID": 3,
+      "word": "a",
+      "start": 12.78,
+      "end": 13.14
+    },
+    {
+      "segentID": 3,
+      "word": "foreign",
+      "start": 13.14,
+      "end": 13.34
+    },
+    {
+      "segentID": 3,
+      "word": "nation",
+      "start": 13.34,
+      "end": 13.76
+    },
+    {
+      "segentID": 3,
+      "word": "behind,",
+      "start": 13.76,
+      "end": 14.5
+    },
+    {
+      "segentID": 4,
+      "word": "Judah",
+      "start": 15.72,
+      "end": 16.06
+    },
+    {
+      "segentID": 4,
+      "word": "became",
+      "start": 16.06,
+      "end": 16.82
+    },
+    {
+      "segentID": 4,
+      "word": "his",
+      "start": 16.82,
+      "end": 17.1
+    },
+    {
+      "segentID": 4,
+      "word": "sanctuary,",
+      "start": 17.1,
+      "end": 17.74
+    },
+    {
+      "segentID": 4,
+      "word": "Israel",
+      "start": 18.04,
+      "end": 18.74
+    },
+    {
+      "segentID": 4,
+      "word": "his",
+      "start": 18.74,
+      "end": 19.38
+    },
+    {
+      "segentID": 4,
+      "word": "kingdom.",
+      "start": 19.38,
+      "end": 19.84
+    },
+    {
+      "segentID": 5,
+      "word": "The",
+      "start": 20.98,
+      "end": 21.44
+    },
+    {
+      "segentID": 5,
+      "word": "sea",
+      "start": 21.44,
+      "end": 21.96
+    },
+    {
+      "segentID": 5,
+      "word": "looked",
+      "start": 21.96,
+      "end": 22.42
+    },
+    {
+      "segentID": 5,
+      "word": "and",
+      "start": 22.42,
+      "end": 23.02
+    },
+    {
+      "segentID": 5,
+      "word": "fled.",
+      "start": 23.02,
+      "end": 23.42
+    },
+    {
+      "segentID": 6,
+      "word": "The",
+      "start": 24.4,
+      "end": 24.6
+    },
+    {
+      "segentID": 6,
+      "word": "Jordan",
+      "start": 24.6,
+      "end": 24.96
+    },
+    {
+      "segentID": 6,
+      "word": "River",
+      "start": 24.96,
+      "end": 25.26
+    },
+    {
+      "segentID": 6,
+      "word": "turned",
+      "start": 25.26,
+      "end": 25.66
+    },
+    {
+      "segentID": 6,
+      "word": "back.",
+      "start": 25.66,
+      "end": 26.26
+    },
+    {
+      "segentID": 7,
+      "word": "The",
+      "start": 26.85,
+      "end": 27.18
+    },
+    {
+      "segentID": 7,
+      "word": "mountains",
+      "start": 27.18,
+      "end": 27.74
+    },
+    {
+      "segentID": 7,
+      "word": "skipped",
+      "start": 27.74,
+      "end": 28.12
+    },
+    {
+      "segentID": 7,
+      "word": "like",
+      "start": 28.12,
+      "end": 28.48
+    },
+    {
+      "segentID": 7,
+      "word": "rams,",
+      "start": 28.48,
+      "end": 28.98
+    },
+    {
+      "segentID": 7,
+      "word": "the",
+      "start": 29.08,
+      "end": 29.24
+    },
+    {
+      "segentID": 7,
+      "word": "hills",
+      "start": 29.24,
+      "end": 29.52
+    },
+    {
+      "segentID": 7,
+      "word": "like",
+      "start": 29.52,
+      "end": 29.94
+    },
+    {
+      "segentID": 7,
+      "word": "lambs.",
+      "start": 29.94,
+      "end": 30.3
+    },
+    {
+      "segentID": 8,
+      "word": "Why",
+      "start": 32.24,
+      "end": 32.52
+    },
+    {
+      "segentID": 8,
+      "word": "do",
+      "start": 32.52,
+      "end": 32.7
+    },
+    {
+      "segentID": 8,
+      "word": "you",
+      "start": 32.7,
+      "end": 33.0
+    },
+    {
+      "segentID": 8,
+      "word": "flee,",
+      "start": 33.0,
+      "end": 33.48
+    },
+    {
+      "segentID": 8,
+      "word": "O",
+      "start": 33.74,
+      "end": 34.02
+    },
+    {
+      "segentID": 8,
+      "word": "sea?",
+      "start": 34.02,
+      "end": 34.44
+    },
+    {
+      "segentID": 9,
+      "word": "Why",
+      "start": 35.64,
+      "end": 35.96
+    },
+    {
+      "segentID": 9,
+      "word": "do",
+      "start": 35.96,
+      "end": 36.12
+    },
+    {
+      "segentID": 9,
+      "word": "you",
+      "start": 36.12,
+      "end": 36.24
+    },
+    {
+      "segentID": 9,
+      "word": "turn",
+      "start": 36.24,
+      "end": 36.48
+    },
+    {
+      "segentID": 9,
+      "word": "back,",
+      "start": 36.48,
+      "end": 37.1
+    },
+    {
+      "segentID": 9,
+      "word": "O",
+      "start": 37.42,
+      "end": 37.68
+    },
+    {
+      "segentID": 9,
+      "word": "Jordan",
+      "start": 37.68,
+      "end": 38.1
+    },
+    {
+      "segentID": 9,
+      "word": "River?",
+      "start": 38.1,
+      "end": 38.6
+    },
+    {
+      "segentID": 10,
+      "word": "Why",
+      "start": 40.08,
+      "end": 40.42
+    },
+    {
+      "segentID": 10,
+      "word": "do",
+      "start": 40.42,
+      "end": 40.62
+    },
+    {
+      "segentID": 10,
+      "word": "you",
+      "start": 40.62,
+      "end": 40.88
+    },
+    {
+      "segentID": 10,
+      "word": "skip",
+      "start": 40.88,
+      "end": 41.08
+    },
+    {
+      "segentID": 10,
+      "word": "like",
+      "start": 41.08,
+      "end": 41.48
+    },
+    {
+      "segentID": 10,
+      "word": "rams,",
+      "start": 41.48,
+      "end": 41.98
+    },
+    {
+      "segentID": 10,
+      "word": "O",
+      "start": 42.08,
+      "end": 42.28
+    },
+    {
+      "segentID": 10,
+      "word": "mountains,",
+      "start": 42.28,
+      "end": 42.96
+    },
+    {
+      "segentID": 10,
+      "word": "like",
+      "start": 43.14,
+      "end": 43.44
+    },
+    {
+      "segentID": 10,
+      "word": "lambs,",
+      "start": 43.44,
+      "end": 44.14
+    },
+    {
+      "segentID": 10,
+      "word": "O",
+      "start": 44.22,
+      "end": 44.32
+    },
+    {
+      "segentID": 10,
+      "word": "hills?",
+      "start": 44.32,
+      "end": 44.92
+    },
+    {
+      "segentID": 11,
+      "word": "Tremble,",
+      "start": 46.86,
+      "end": 47.52
+    },
+    {
+      "segentID": 11,
+      "word": "O",
+      "start": 47.54,
+      "end": 47.78
+    },
+    {
+      "segentID": 11,
+      "word": "earth,",
+      "start": 47.78,
+      "end": 48.34
+    },
+    {
+      "segentID": 11,
+      "word": "before",
+      "start": 48.88,
+      "end": 49.2
+    },
+    {
+      "segentID": 11,
+      "word": "the",
+      "start": 49.2,
+      "end": 49.5
+    },
+    {
+      "segentID": 11,
+      "word": "Lord,",
+      "start": 49.5,
+      "end": 49.92
+    },
+    {
+      "segentID": 12,
+      "word": "before",
+      "start": 50.88,
+      "end": 51.32
+    },
+    {
+      "segentID": 12,
+      "word": "the",
+      "start": 51.32,
+      "end": 51.74
+    },
+    {
+      "segentID": 12,
+      "word": "God",
+      "start": 51.74,
+      "end": 51.96
+    },
+    {
+      "segentID": 12,
+      "word": "of",
+      "start": 51.96,
+      "end": 52.3
+    },
+    {
+      "segentID": 12,
+      "word": "Jacob,",
+      "start": 52.3,
+      "end": 52.68
+    },
+    {
+      "segentID": 12,
+      "word": "who",
+      "start": 53.14,
+      "end": 53.36
+    },
+    {
+      "segentID": 12,
+      "word": "turned",
+      "start": 53.36,
+      "end": 53.68
+    },
+    {
+      "segentID": 12,
+      "word": "a",
+      "start": 53.68,
+      "end": 54.12
+    },
+    {
+      "segentID": 12,
+      "word": "rock",
+      "start": 54.12,
+      "end": 54.42
+    },
+    {
+      "segentID": 12,
+      "word": "into",
+      "start": 54.42,
+      "end": 54.88
+    },
+    {
+      "segentID": 12,
+      "word": "a",
+      "start": 54.88,
+      "end": 55.16
+    },
+    {
+      "segentID": 12,
+      "word": "pool",
+      "start": 55.16,
+      "end": 55.52
+    },
+    {
+      "segentID": 12,
+      "word": "of",
+      "start": 55.52,
+      "end": 55.94
+    },
+    {
+      "segentID": 12,
+      "word": "water,",
+      "start": 55.94,
+      "end": 56.34
+    },
+    {
+      "segentID": 13,
+      "word": "a",
+      "start": 56.86,
+      "end": 57.26
+    },
+    {
+      "segentID": 13,
+      "word": "hard",
+      "start": 57.26,
+      "end": 57.72
+    },
+    {
+      "segentID": 13,
+      "word": "rock",
+      "start": 57.72,
+      "end": 58.42
+    },
+    {
+      "segentID": 13,
+      "word": "into",
+      "start": 58.42,
+      "end": 59.4
+    },
+    {
+      "segentID": 13,
+      "word": "springs",
+      "start": 59.4,
+      "end": 60.3
+    },
+    {
+      "segentID": 13,
+      "word": "of",
+      "start": 60.3,
+      "end": 60.72
+    },
+    {
+      "segentID": 13,
+      "word": "water.",
+      "start": 60.72,
+      "end": 61.22
+    }
+  ]
+}
