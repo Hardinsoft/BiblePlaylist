@@ -1,0 +1,298 @@
+{
+  "words": [
+    {
+      "segentID": 0,
+      "word": "The",
+      "start": 2.039999999999999,
+      "end": 3.22
+    },
+    {
+      "segentID": 0,
+      "word": "Gospel",
+      "start": 3.22,
+      "end": 3.78
+    },
+    {
+      "segentID": 0,
+      "word": "According",
+      "start": 3.78,
+      "end": 4.36
+    },
+    {
+      "segentID": 0,
+      "word": "to",
+      "start": 4.36,
+      "end": 4.56
+    },
+    {
+      "segentID": 0,
+      "word": "John,",
+      "start": 4.56,
+      "end": 5.24
+    },
+    {
+      "segentID": 0,
+      "word": "Chapter",
+      "start": 5.3,
+      "end": 5.9
+    },
+    {
+      "segentID": 0,
+      "word": "1",
+      "start": 5.9,
+      "end": 6.68
+    },
+    {
+      "segentID": 1,
+      "word": "John,",
+      "start": 54.28,
+      "end": 55.68
+    },
+    {
+      "segentID": 1,
+      "word": "Chapter",
+      "start": 55.68,
+      "end": 57.08
+    },
+    {
+      "segentID": 1,
+      "word": "1",
+      "start": 57.08,
+      "end": 57.1
+    },
+    {
+      "segentID": 2,
+      "word": "John,",
+      "start": 87.17999999999999,
+      "end": 88.58
+    },
+    {
+      "segentID": 2,
+      "word": "Chapter",
+      "start": 88.58,
+      "end": 89.98
+    },
+    {
+      "segentID": 2,
+      "word": "1",
+      "start": 89.98,
+      "end": 89.98
+    },
+    {
+      "segentID": 3,
+      "word": "John,",
+      "start": 110.93999999999998,
+      "end": 112.33999999999999
+    },
+    {
+      "segentID": 3,
+      "word": "Chapter",
+      "start": 112.33999999999999,
+      "end": 113.74
+    },
+    {
+      "segentID": 3,
+      "word": "1",
+      "start": 113.74,
+      "end": 114.56
+    },
+    {
+      "segentID": 4,
+      "word": "John,",
+      "start": 129.73999999999998,
+      "end": 131.14
+    },
+    {
+      "segentID": 4,
+      "word": "Chapter",
+      "start": 149.68,
+      "end": 149.92
+    },
+    {
+      "segentID": 4,
+      "word": "1",
+      "start": 149.92,
+      "end": 149.94
+    },
+    {
+      "segentID": 5,
+      "word": "John,",
+      "start": 177.11999999999998,
+      "end": 178.51999999999998
+    },
+    {
+      "segentID": 5,
+      "word": "Chapter",
+      "start": 178.51999999999998,
+      "end": 179.92
+    },
+    {
+      "segentID": 5,
+      "word": "1",
+      "start": 179.92,
+      "end": 179.92
+    },
+    {
+      "segentID": 6,
+      "word": "John,",
+      "start": 206.76,
+      "end": 208.16
+    },
+    {
+      "segentID": 6,
+      "word": "Chapter",
+      "start": 208.16,
+      "end": 209.56
+    },
+    {
+      "segentID": 6,
+      "word": "1",
+      "start": 209.56,
+      "end": 209.78
+    },
+    {
+      "segentID": 7,
+      "word": "John,",
+      "start": 209.94,
+      "end": 211.54
+    },
+    {
+      "segentID": 7,
+      "word": "Chapter",
+      "start": 229.7,
+      "end": 232.84
+    },
+    {
+      "segentID": 7,
+      "word": "1",
+      "start": 232.84,
+      "end": 232.88
+    },
+    {
+      "segentID": 8,
+      "word": "John,",
+      "start": 243.42,
+      "end": 244.82
+    },
+    {
+      "segentID": 8,
+      "word": "Chapter",
+      "start": 244.82,
+      "end": 246.22
+    },
+    {
+      "segentID": 8,
+      "word": "1",
+      "start": 246.22,
+      "end": 246.94
+    },
+    {
+      "segentID": 9,
+      "word": "John,",
+      "start": 296.32000000000005,
+      "end": 297.72
+    },
+    {
+      "segentID": 9,
+      "word": "Chapter",
+      "start": 297.72,
+      "end": 299.12
+    },
+    {
+      "segentID": 9,
+      "word": "1",
+      "start": 299.12,
+      "end": 299.92
+    },
+    {
+      "segentID": 10,
+      "word": "John,",
+      "start": 326.82000000000005,
+      "end": 328.22
+    },
+    {
+      "segentID": 10,
+      "word": "Chapter",
+      "start": 328.22,
+      "end": 329.62
+    },
+    {
+      "segentID": 10,
+      "word": "1",
+      "start": 329.62,
+      "end": 329.64
+    },
+    {
+      "segentID": 11,
+      "word": "John,",
+      "start": 351.36000000000007,
+      "end": 352.76000000000005
+    },
+    {
+      "segentID": 11,
+      "word": "Chapter",
+      "start": 352.76000000000005,
+      "end": 354.16
+    },
+    {
+      "segentID": 11,
+      "word": "1",
+      "start": 354.16,
+      "end": 354.18
+    },
+    {
+      "segentID": 12,
+      "word": "John,",
+      "start": 361.94,
+      "end": 363.34
+    },
+    {
+      "segentID": 12,
+      "word": "Chapter",
+      "start": 380.42,
+      "end": 380.92
+    },
+    {
+      "segentID": 12,
+      "word": "1",
+      "start": 380.92,
+      "end": 381.7
+    },
+    {
+      "segentID": 13,
+      "word": "John,",
+      "start": 417.00000000000006,
+      "end": 418.40000000000003
+    },
+    {
+      "segentID": 13,
+      "word": "Chapter",
+      "start": 418.40000000000003,
+      "end": 419.8
+    },
+    {
+      "segentID": 13,
+      "word": "1",
+      "start": 419.8,
+      "end": 419.84
+    },
+    {
+      "segentID": 14,
+      "word": "John,",
+      "start": 419.94,
+      "end": 420.36
+    },
+    {
+      "segentID": 14,
+      "word": "Chapter",
+      "start": 420.36,
+      "end": 422.18
+    },
+    {
+      "segentID": 14,
+      "word": "1",
+      "start": 422.18,
+      "end": 422.38
+    }
+  ]
+}

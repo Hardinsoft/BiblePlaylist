@@ -1,0 +1,6868 @@
+{
+  "words": [
+    {
+      "segentID": 0,
+      "word": "Luke",
+      "start": 4.079999999999999,
+      "end": 4.72
+    },
+    {
+      "segentID": 0,
+      "word": "6",
+      "start": 4.72,
+      "end": 5.36
+    },
+    {
+      "segentID": 1,
+      "word": "Jesus",
+      "start": 5.36,
+      "end": 6.18
+    },
+    {
+      "segentID": 1,
+      "word": "was",
+      "start": 6.18,
+      "end": 6.36
+    },
+    {
+      "segentID": 1,
+      "word": "going",
+      "start": 6.36,
+      "end": 6.62
+    },
+    {
+      "segentID": 1,
+      "word": "through",
+      "start": 6.62,
+      "end": 6.86
+    },
+    {
+      "segentID": 1,
+      "word": "the",
+      "start": 6.86,
+      "end": 7.06
+    },
+    {
+      "segentID": 1,
+      "word": "grain",
+      "start": 7.06,
+      "end": 7.28
+    },
+    {
+      "segentID": 1,
+      "word": "fields",
+      "start": 7.28,
+      "end": 7.52
+    },
+    {
+      "segentID": 1,
+      "word": "on",
+      "start": 7.52,
+      "end": 7.74
+    },
+    {
+      "segentID": 1,
+      "word": "a",
+      "start": 7.74,
+      "end": 7.94
+    },
+    {
+      "segentID": 1,
+      "word": "Sabbath,",
+      "start": 7.94,
+      "end": 8.2
+    },
+    {
+      "segentID": 1,
+      "word": "and",
+      "start": 8.82,
+      "end": 8.92
+    },
+    {
+      "segentID": 1,
+      "word": "His",
+      "start": 8.92,
+      "end": 9.12
+    },
+    {
+      "segentID": 1,
+      "word": "disciples",
+      "start": 9.12,
+      "end": 9.68
+    },
+    {
+      "segentID": 1,
+      "word": "picked",
+      "start": 9.68,
+      "end": 10.28
+    },
+    {
+      "segentID": 1,
+      "word": "some",
+      "start": 10.28,
+      "end": 10.64
+    },
+    {
+      "segentID": 2,
+      "word": "heads",
+      "start": 10.64,
+      "end": 10.96
+    },
+    {
+      "segentID": 2,
+      "word": "of",
+      "start": 10.96,
+      "end": 11.38
+    },
+    {
+      "segentID": 2,
+      "word": "wheat,",
+      "start": 11.38,
+      "end": 11.6
+    },
+    {
+      "segentID": 2,
+      "word": "rubbed",
+      "start": 11.82,
+      "end": 12.16
+    },
+    {
+      "segentID": 2,
+      "word": "them",
+      "start": 12.16,
+      "end": 12.3
+    },
+    {
+      "segentID": 2,
+      "word": "in",
+      "start": 12.3,
+      "end": 12.42
+    },
+    {
+      "segentID": 2,
+      "word": "their",
+      "start": 12.42,
+      "end": 12.62
+    },
+    {
+      "segentID": 2,
+      "word": "hands,",
+      "start": 12.62,
+      "end": 12.94
+    },
+    {
+      "segentID": 2,
+      "word": "and",
+      "start": 12.96,
+      "end": 13.24
+    },
+    {
+      "segentID": 2,
+      "word": "ate",
+      "start": 13.24,
+      "end": 13.48
+    },
+    {
+      "segentID": 2,
+      "word": "them.",
+      "start": 13.48,
+      "end": 13.92
+    },
+    {
+      "segentID": 3,
+      "word": "But",
+      "start": 14.02,
+      "end": 14.26
+    },
+    {
+      "segentID": 3,
+      "word": "some",
+      "start": 14.26,
+      "end": 14.48
+    },
+    {
+      "segentID": 3,
+      "word": "of",
+      "start": 14.48,
+      "end": 14.6
+    },
+    {
+      "segentID": 3,
+      "word": "the",
+      "start": 14.6,
+      "end": 14.76
+    },
+    {
+      "segentID": 3,
+      "word": "Pharisees",
+      "start": 14.76,
+      "end": 15.22
+    },
+    {
+      "segentID": 3,
+      "word": "said,",
+      "start": 15.22,
+      "end": 15.72
+    },
+    {
+      "segentID": 3,
+      "word": "Why",
+      "start": 16.72,
+      "end": 17.08
+    },
+    {
+      "segentID": 3,
+      "word": "are",
+      "start": 17.08,
+      "end": 17.36
+    },
+    {
+      "segentID": 3,
+      "word": "you",
+      "start": 17.36,
+      "end": 17.6
+    },
+    {
+      "segentID": 3,
+      "word": "doing",
+      "start": 17.6,
+      "end": 18.12
+    },
+    {
+      "segentID": 3,
+      "word": "what",
+      "start": 18.12,
+      "end": 18.44
+    },
+    {
+      "segentID": 3,
+      "word": "is",
+      "start": 18.44,
+      "end": 18.76
+    },
+    {
+      "segentID": 3,
+      "word": "against",
+      "start": 18.76,
+      "end": 19.32
+    },
+    {
+      "segentID": 3,
+      "word": "the",
+      "start": 19.32,
+      "end": 19.72
+    },
+    {
+      "segentID": 3,
+      "word": "law",
+      "start": 19.72,
+      "end": 20.22
+    },
+    {
+      "segentID": 3,
+      "word": "on",
+      "start": 20.22,
+      "end": 20.58
+    },
+    {
+      "segentID": 3,
+      "word": "the",
+      "start": 20.58,
+      "end": 20.78
+    },
+    {
+      "segentID": 3,
+      "word": "Sabbath?",
+      "start": 20.78,
+      "end": 21.08
+    },
+    {
+      "segentID": 4,
+      "word": "Jesus",
+      "start": 22.4,
+      "end": 22.92
+    },
+    {
+      "segentID": 4,
+      "word": "answered",
+      "start": 22.92,
+      "end": 23.28
+    },
+    {
+      "segentID": 4,
+      "word": "them,",
+      "start": 23.28,
+      "end": 23.8
+    },
+    {
+      "segentID": 4,
+      "word": "Haven't",
+      "start": 24.5,
+      "end": 24.88
+    },
+    {
+      "segentID": 4,
+      "word": "you",
+      "start": 24.88,
+      "end": 25.26
+    },
+    {
+      "segentID": 4,
+      "word": "read",
+      "start": 25.26,
+      "end": 25.74
+    },
+    {
+      "segentID": 4,
+      "word": "what",
+      "start": 25.74,
+      "end": 26.2
+    },
+    {
+      "segentID": 4,
+      "word": "David",
+      "start": 26.2,
+      "end": 26.72
+    },
+    {
+      "segentID": 4,
+      "word": "did",
+      "start": 26.72,
+      "end": 27.0
+    },
+    {
+      "segentID": 4,
+      "word": "when",
+      "start": 27.0,
+      "end": 27.24
+    },
+    {
+      "segentID": 4,
+      "word": "he",
+      "start": 27.24,
+      "end": 27.52
+    },
+    {
+      "segentID": 4,
+      "word": "and",
+      "start": 27.52,
+      "end": 27.68
+    },
+    {
+      "segentID": 4,
+      "word": "his",
+      "start": 27.68,
+      "end": 28.02
+    },
+    {
+      "segentID": 4,
+      "word": "companions",
+      "start": 28.02,
+      "end": 28.54
+    },
+    {
+      "segentID": 4,
+      "word": "were",
+      "start": 28.54,
+      "end": 28.8
+    },
+    {
+      "segentID": 5,
+      "word": "hungry?",
+      "start": 28.8,
+      "end": 29.18
+    },
+    {
+      "segentID": 6,
+      "word": "How",
+      "start": 29.799999999999997,
+      "end": 30.06
+    },
+    {
+      "segentID": 6,
+      "word": "he",
+      "start": 30.06,
+      "end": 30.32
+    },
+    {
+      "segentID": 6,
+      "word": "entered",
+      "start": 30.32,
+      "end": 30.56
+    },
+    {
+      "segentID": 6,
+      "word": "the",
+      "start": 30.56,
+      "end": 30.76
+    },
+    {
+      "segentID": 6,
+      "word": "house",
+      "start": 30.76,
+      "end": 31.04
+    },
+    {
+      "segentID": 6,
+      "word": "of",
+      "start": 31.04,
+      "end": 31.24
+    },
+    {
+      "segentID": 6,
+      "word": "God,",
+      "start": 31.24,
+      "end": 31.52
+    },
+    {
+      "segentID": 6,
+      "word": "took",
+      "start": 31.56,
+      "end": 31.8
+    },
+    {
+      "segentID": 6,
+      "word": "and",
+      "start": 31.8,
+      "end": 32.0
+    },
+    {
+      "segentID": 6,
+      "word": "ate",
+      "start": 32.0,
+      "end": 32.36
+    },
+    {
+      "segentID": 6,
+      "word": "the",
+      "start": 32.36,
+      "end": 32.72
+    },
+    {
+      "segentID": 6,
+      "word": "sacred",
+      "start": 32.72,
+      "end": 33.04
+    },
+    {
+      "segentID": 6,
+      "word": "bread,",
+      "start": 33.04,
+      "end": 33.36
+    },
+    {
+      "segentID": 6,
+      "word": "which",
+      "start": 33.38,
+      "end": 33.56
+    },
+    {
+      "segentID": 6,
+      "word": "is",
+      "start": 33.56,
+      "end": 33.8
+    },
+    {
+      "segentID": 6,
+      "word": "not",
+      "start": 33.8,
+      "end": 34.34
+    },
+    {
+      "segentID": 6,
+      "word": "lawful",
+      "start": 34.34,
+      "end": 34.82
+    },
+    {
+      "segentID": 7,
+      "word": "for",
+      "start": 34.82,
+      "end": 35.08
+    },
+    {
+      "segentID": 7,
+      "word": "any",
+      "start": 35.08,
+      "end": 35.36
+    },
+    {
+      "segentID": 7,
+      "word": "to",
+      "start": 35.36,
+      "end": 35.6
+    },
+    {
+      "segentID": 7,
+      "word": "eat",
+      "start": 35.6,
+      "end": 35.72
+    },
+    {
+      "segentID": 7,
+      "word": "but",
+      "start": 35.72,
+      "end": 35.88
+    },
+    {
+      "segentID": 7,
+      "word": "the",
+      "start": 35.88,
+      "end": 36.06
+    },
+    {
+      "segentID": 7,
+      "word": "priests",
+      "start": 36.06,
+      "end": 36.3
+    },
+    {
+      "segentID": 7,
+      "word": "alone,",
+      "start": 36.3,
+      "end": 36.62
+    },
+    {
+      "segentID": 7,
+      "word": "and",
+      "start": 36.82,
+      "end": 37.06
+    },
+    {
+      "segentID": 7,
+      "word": "gave",
+      "start": 37.06,
+      "end": 37.32
+    },
+    {
+      "segentID": 7,
+      "word": "it",
+      "start": 37.32,
+      "end": 37.5
+    },
+    {
+      "segentID": 7,
+      "word": "to",
+      "start": 37.5,
+      "end": 37.64
+    },
+    {
+      "segentID": 7,
+      "word": "his",
+      "start": 37.64,
+      "end": 37.88
+    },
+    {
+      "segentID": 7,
+      "word": "companions.",
+      "start": 37.88,
+      "end": 38.34
+    },
+    {
+      "segentID": 8,
+      "word": "Then",
+      "start": 39.88,
+      "end": 40.08
+    },
+    {
+      "segentID": 8,
+      "word": "he",
+      "start": 40.08,
+      "end": 40.28
+    },
+    {
+      "segentID": 8,
+      "word": "said",
+      "start": 40.28,
+      "end": 40.46
+    },
+    {
+      "segentID": 8,
+      "word": "to",
+      "start": 40.46,
+      "end": 40.56
+    },
+    {
+      "segentID": 8,
+      "word": "them,",
+      "start": 40.56,
+      "end": 40.92
+    },
+    {
+      "segentID": 8,
+      "word": "The",
+      "start": 42.1,
+      "end": 42.16
+    },
+    {
+      "segentID": 8,
+      "word": "Son",
+      "start": 42.16,
+      "end": 42.44
+    },
+    {
+      "segentID": 8,
+      "word": "of",
+      "start": 42.44,
+      "end": 42.7
+    },
+    {
+      "segentID": 8,
+      "word": "Man",
+      "start": 42.7,
+      "end": 43.24
+    },
+    {
+      "segentID": 8,
+      "word": "is",
+      "start": 43.24,
+      "end": 44.14
+    },
+    {
+      "segentID": 8,
+      "word": "Lord",
+      "start": 44.14,
+      "end": 44.7
+    },
+    {
+      "segentID": 8,
+      "word": "of",
+      "start": 44.7,
+      "end": 44.94
+    },
+    {
+      "segentID": 8,
+      "word": "the",
+      "start": 44.94,
+      "end": 45.18
+    },
+    {
+      "segentID": 8,
+      "word": "Sabbath.",
+      "start": 45.18,
+      "end": 45.52
+    },
+    {
+      "segentID": 9,
+      "word": "On",
+      "start": 47.26,
+      "end": 47.62
+    },
+    {
+      "segentID": 9,
+      "word": "another",
+      "start": 47.62,
+      "end": 47.94
+    },
+    {
+      "segentID": 9,
+      "word": "Sabbath,",
+      "start": 47.94,
+      "end": 48.22
+    },
+    {
+      "segentID": 9,
+      "word": "Jesus",
+      "start": 48.24,
+      "end": 48.56
+    },
+    {
+      "segentID": 9,
+      "word": "entered",
+      "start": 48.56,
+      "end": 48.82
+    },
+    {
+      "segentID": 9,
+      "word": "the",
+      "start": 48.82,
+      "end": 49.06
+    },
+    {
+      "segentID": 9,
+      "word": "synagogue",
+      "start": 49.06,
+      "end": 49.44
+    },
+    {
+      "segentID": 9,
+      "word": "and",
+      "start": 49.44,
+      "end": 49.68
+    },
+    {
+      "segentID": 9,
+      "word": "was",
+      "start": 49.68,
+      "end": 49.94
+    },
+    {
+      "segentID": 9,
+      "word": "teaching.",
+      "start": 49.94,
+      "end": 50.36
+    },
+    {
+      "segentID": 10,
+      "word": "Now",
+      "start": 50.72,
+      "end": 50.92
+    },
+    {
+      "segentID": 10,
+      "word": "a",
+      "start": 50.92,
+      "end": 51.06
+    },
+    {
+      "segentID": 10,
+      "word": "man",
+      "start": 51.06,
+      "end": 51.26
+    },
+    {
+      "segentID": 10,
+      "word": "was",
+      "start": 51.26,
+      "end": 51.62
+    },
+    {
+      "segentID": 10,
+      "word": "there",
+      "start": 51.62,
+      "end": 52.1
+    },
+    {
+      "segentID": 10,
+      "word": "whose",
+      "start": 52.1,
+      "end": 52.38
+    },
+    {
+      "segentID": 10,
+      "word": "right",
+      "start": 52.38,
+      "end": 52.82
+    },
+    {
+      "segentID": 10,
+      "word": "hand",
+      "start": 52.82,
+      "end": 53.1
+    },
+    {
+      "segentID": 10,
+      "word": "was",
+      "start": 53.1,
+      "end": 53.48
+    },
+    {
+      "segentID": 10,
+      "word": "withered.",
+      "start": 53.48,
+      "end": 53.86
+    },
+    {
+      "segentID": 11,
+      "word": "The",
+      "start": 54.29,
+      "end": 54.62
+    },
+    {
+      "segentID": 11,
+      "word": "experts",
+      "start": 54.62,
+      "end": 55.0
+    },
+    {
+      "segentID": 11,
+      "word": "in",
+      "start": 55.0,
+      "end": 55.2
+    },
+    {
+      "segentID": 11,
+      "word": "the",
+      "start": 55.2,
+      "end": 55.4
+    },
+    {
+      "segentID": 11,
+      "word": "law",
+      "start": 55.4,
+      "end": 55.78
+    },
+    {
+      "segentID": 11,
+      "word": "and",
+      "start": 55.78,
+      "end": 56.08
+    },
+    {
+      "segentID": 11,
+      "word": "the",
+      "start": 56.08,
+      "end": 56.22
+    },
+    {
+      "segentID": 11,
+      "word": "Pharisees",
+      "start": 56.22,
+      "end": 56.72
+    },
+    {
+      "segentID": 11,
+      "word": "watched",
+      "start": 56.72,
+      "end": 57.16
+    },
+    {
+      "segentID": 11,
+      "word": "Jesus",
+      "start": 57.16,
+      "end": 57.68
+    },
+    {
+      "segentID": 11,
+      "word": "closely",
+      "start": 57.68,
+      "end": 58.42
+    },
+    {
+      "segentID": 11,
+      "word": "to",
+      "start": 58.42,
+      "end": 58.64
+    },
+    {
+      "segentID": 11,
+      "word": "see",
+      "start": 58.64,
+      "end": 58.8
+    },
+    {
+      "segentID": 11,
+      "word": "if",
+      "start": 58.8,
+      "end": 58.86
+    },
+    {
+      "segentID": 11,
+      "word": "He",
+      "start": 58.86,
+      "end": 59.0
+    },
+    {
+      "segentID": 11,
+      "word": "would",
+      "start": 59.0,
+      "end": 59.28
+    },
+    {
+      "segentID": 11,
+      "word": "heal",
+      "start": 59.28,
+      "end": 59.84
+    },
+    {
+      "segentID": 11,
+      "word": "on",
+      "start": 59.84,
+      "end": 60.38
+    },
+    {
+      "segentID": 11,
+      "word": "the",
+      "start": 60.38,
+      "end": 60.76
+    },
+    {
+      "segentID": 12,
+      "word": "Sabbath",
+      "start": 60.76,
+      "end": 61.4
+    },
+    {
+      "segentID": 12,
+      "word": "so",
+      "start": 61.4,
+      "end": 62.12
+    },
+    {
+      "segentID": 12,
+      "word": "that",
+      "start": 62.12,
+      "end": 62.24
+    },
+    {
+      "segentID": 12,
+      "word": "they",
+      "start": 62.24,
+      "end": 62.34
+    },
+    {
+      "segentID": 12,
+      "word": "could",
+      "start": 62.34,
+      "end": 62.58
+    },
+    {
+      "segentID": 12,
+      "word": "find",
+      "start": 62.58,
+      "end": 62.9
+    },
+    {
+      "segentID": 12,
+      "word": "a",
+      "start": 62.9,
+      "end": 63.18
+    },
+    {
+      "segentID": 12,
+      "word": "reason",
+      "start": 63.18,
+      "end": 63.72
+    },
+    {
+      "segentID": 12,
+      "word": "to",
+      "start": 63.72,
+      "end": 64.04
+    },
+    {
+      "segentID": 12,
+      "word": "accuse",
+      "start": 64.04,
+      "end": 64.46
+    },
+    {
+      "segentID": 12,
+      "word": "Him.",
+      "start": 64.46,
+      "end": 65.04
+    },
+    {
+      "segentID": 13,
+      "word": "But",
+      "start": 65.66,
+      "end": 66.0
+    },
+    {
+      "segentID": 13,
+      "word": "He",
+      "start": 66.0,
+      "end": 66.32
+    },
+    {
+      "segentID": 13,
+      "word": "knew",
+      "start": 66.32,
+      "end": 66.62
+    },
+    {
+      "segentID": 13,
+      "word": "their",
+      "start": 66.62,
+      "end": 67.04
+    },
+    {
+      "segentID": 13,
+      "word": "thoughts",
+      "start": 67.04,
+      "end": 67.62
+    },
+    {
+      "segentID": 13,
+      "word": "and",
+      "start": 67.62,
+      "end": 68.14
+    },
+    {
+      "segentID": 13,
+      "word": "said",
+      "start": 68.14,
+      "end": 68.34
+    },
+    {
+      "segentID": 13,
+      "word": "to",
+      "start": 68.34,
+      "end": 68.46
+    },
+    {
+      "segentID": 13,
+      "word": "the",
+      "start": 68.46,
+      "end": 68.62
+    },
+    {
+      "segentID": 13,
+      "word": "man",
+      "start": 68.62,
+      "end": 68.78
+    },
+    {
+      "segentID": 13,
+      "word": "who",
+      "start": 68.78,
+      "end": 68.92
+    },
+    {
+      "segentID": 13,
+      "word": "had",
+      "start": 68.92,
+      "end": 69.1
+    },
+    {
+      "segentID": 13,
+      "word": "the",
+      "start": 69.1,
+      "end": 69.22
+    },
+    {
+      "segentID": 13,
+      "word": "withered",
+      "start": 69.22,
+      "end": 69.5
+    },
+    {
+      "segentID": 13,
+      "word": "hand,",
+      "start": 69.5,
+      "end": 69.94
+    },
+    {
+      "segentID": 13,
+      "word": "Get",
+      "start": 70.72,
+      "end": 70.92
+    },
+    {
+      "segentID": 13,
+      "word": "up",
+      "start": 70.92,
+      "end": 71.4
+    },
+    {
+      "segentID": 13,
+      "word": "and",
+      "start": 71.4,
+      "end": 72.1
+    },
+    {
+      "segentID": 14,
+      "word": "stand",
+      "start": 72.1,
+      "end": 72.58
+    },
+    {
+      "segentID": 14,
+      "word": "here.",
+      "start": 72.58,
+      "end": 73.24
+    },
+    {
+      "segentID": 15,
+      "word": "So",
+      "start": 73.76,
+      "end": 74.08
+    },
+    {
+      "segentID": 15,
+      "word": "He",
+      "start": 74.08,
+      "end": 74.24
+    },
+    {
+      "segentID": 15,
+      "word": "rose",
+      "start": 74.24,
+      "end": 74.58
+    },
+    {
+      "segentID": 15,
+      "word": "and",
+      "start": 74.58,
+      "end": 74.92
+    },
+    {
+      "segentID": 15,
+      "word": "stood",
+      "start": 74.92,
+      "end": 75.12
+    },
+    {
+      "segentID": 15,
+      "word": "there.",
+      "start": 75.12,
+      "end": 75.54
+    },
+    {
+      "segentID": 16,
+      "word": "Then",
+      "start": 75.54,
+      "end": 75.92
+    },
+    {
+      "segentID": 16,
+      "word": "Jesus",
+      "start": 75.92,
+      "end": 76.32
+    },
+    {
+      "segentID": 16,
+      "word": "said",
+      "start": 76.32,
+      "end": 76.56
+    },
+    {
+      "segentID": 16,
+      "word": "to",
+      "start": 76.56,
+      "end": 76.64
+    },
+    {
+      "segentID": 16,
+      "word": "them,",
+      "start": 76.64,
+      "end": 77.04
+    },
+    {
+      "segentID": 16,
+      "word": "I",
+      "start": 78.84,
+      "end": 78.94
+    },
+    {
+      "segentID": 16,
+      "word": "ask",
+      "start": 78.94,
+      "end": 79.46
+    },
+    {
+      "segentID": 16,
+      "word": "you,",
+      "start": 79.46,
+      "end": 80.02
+    },
+    {
+      "segentID": 16,
+      "word": "is",
+      "start": 80.26,
+      "end": 80.4
+    },
+    {
+      "segentID": 16,
+      "word": "it",
+      "start": 80.4,
+      "end": 80.74
+    },
+    {
+      "segentID": 16,
+      "word": "lawful",
+      "start": 80.74,
+      "end": 81.52
+    },
+    {
+      "segentID": 16,
+      "word": "to",
+      "start": 81.52,
+      "end": 82.08
+    },
+    {
+      "segentID": 16,
+      "word": "do",
+      "start": 82.08,
+      "end": 82.38
+    },
+    {
+      "segentID": 16,
+      "word": "good",
+      "start": 82.38,
+      "end": 82.9
+    },
+    {
+      "segentID": 16,
+      "word": "on",
+      "start": 82.9,
+      "end": 83.38
+    },
+    {
+      "segentID": 16,
+      "word": "the",
+      "start": 83.38,
+      "end": 83.64
+    },
+    {
+      "segentID": 16,
+      "word": "Sabbath",
+      "start": 83.64,
+      "end": 83.96
+    },
+    {
+      "segentID": 16,
+      "word": "or",
+      "start": 83.96,
+      "end": 85.0
+    },
+    {
+      "segentID": 16,
+      "word": "to",
+      "start": 85.0,
+      "end": 85.26
+    },
+    {
+      "segentID": 16,
+      "word": "do",
+      "start": 85.26,
+      "end": 85.46
+    },
+    {
+      "segentID": 17,
+      "word": "evil,",
+      "start": 85.46,
+      "end": 85.82
+    },
+    {
+      "segentID": 17,
+      "word": "to",
+      "start": 86.74,
+      "end": 86.94
+    },
+    {
+      "segentID": 17,
+      "word": "save",
+      "start": 86.94,
+      "end": 87.16
+    },
+    {
+      "segentID": 17,
+      "word": "a",
+      "start": 87.16,
+      "end": 87.34
+    },
+    {
+      "segentID": 17,
+      "word": "life",
+      "start": 87.34,
+      "end": 87.48
+    },
+    {
+      "segentID": 17,
+      "word": "or",
+      "start": 87.48,
+      "end": 87.64
+    },
+    {
+      "segentID": 17,
+      "word": "to",
+      "start": 87.64,
+      "end": 87.84
+    },
+    {
+      "segentID": 17,
+      "word": "destroy",
+      "start": 87.84,
+      "end": 88.2
+    },
+    {
+      "segentID": 17,
+      "word": "it?",
+      "start": 88.2,
+      "end": 89.1
+    },
+    {
+      "segentID": 18,
+      "word": "After",
+      "start": 90.44,
+      "end": 90.76
+    },
+    {
+      "segentID": 18,
+      "word": "looking",
+      "start": 90.76,
+      "end": 91.1
+    },
+    {
+      "segentID": 18,
+      "word": "around",
+      "start": 91.1,
+      "end": 91.54
+    },
+    {
+      "segentID": 18,
+      "word": "at",
+      "start": 91.54,
+      "end": 91.7
+    },
+    {
+      "segentID": 18,
+      "word": "them",
+      "start": 91.7,
+      "end": 91.94
+    },
+    {
+      "segentID": 18,
+      "word": "all,",
+      "start": 91.94,
+      "end": 92.34
+    },
+    {
+      "segentID": 18,
+      "word": "He",
+      "start": 92.62,
+      "end": 92.84
+    },
+    {
+      "segentID": 18,
+      "word": "said",
+      "start": 92.84,
+      "end": 93.08
+    },
+    {
+      "segentID": 18,
+      "word": "to",
+      "start": 93.08,
+      "end": 93.24
+    },
+    {
+      "segentID": 18,
+      "word": "the",
+      "start": 93.24,
+      "end": 93.4
+    },
+    {
+      "segentID": 18,
+      "word": "man,",
+      "start": 93.4,
+      "end": 94.36
+    },
+    {
+      "segentID": 18,
+      "word": "Stretch",
+      "start": 95.0,
+      "end": 95.16
+    },
+    {
+      "segentID": 18,
+      "word": "out",
+      "start": 95.16,
+      "end": 95.38
+    },
+    {
+      "segentID": 18,
+      "word": "your",
+      "start": 95.38,
+      "end": 95.64
+    },
+    {
+      "segentID": 18,
+      "word": "hand.",
+      "start": 95.64,
+      "end": 96.12
+    },
+    {
+      "segentID": 19,
+      "word": "The",
+      "start": 97.04,
+      "end": 97.18
+    },
+    {
+      "segentID": 19,
+      "word": "man",
+      "start": 97.18,
+      "end": 97.4
+    },
+    {
+      "segentID": 19,
+      "word": "did",
+      "start": 97.4,
+      "end": 97.72
+    },
+    {
+      "segentID": 19,
+      "word": "so",
+      "start": 97.72,
+      "end": 98.02
+    },
+    {
+      "segentID": 19,
+      "word": "and",
+      "start": 98.02,
+      "end": 98.24
+    },
+    {
+      "segentID": 19,
+      "word": "his",
+      "start": 98.24,
+      "end": 98.54
+    },
+    {
+      "segentID": 19,
+      "word": "hand",
+      "start": 98.54,
+      "end": 99.1
+    },
+    {
+      "segentID": 19,
+      "word": "was",
+      "start": 99.1,
+      "end": 99.68
+    },
+    {
+      "segentID": 19,
+      "word": "restored.",
+      "start": 99.68,
+      "end": 100.68
+    },
+    {
+      "segentID": 20,
+      "word": "But",
+      "start": 101.68,
+      "end": 102.08
+    },
+    {
+      "segentID": 20,
+      "word": "they",
+      "start": 102.08,
+      "end": 103.1
+    },
+    {
+      "segentID": 20,
+      "word": "were",
+      "start": 103.1,
+      "end": 103.62
+    },
+    {
+      "segentID": 20,
+      "word": "filled",
+      "start": 103.62,
+      "end": 104.18
+    },
+    {
+      "segentID": 20,
+      "word": "with",
+      "start": 104.18,
+      "end": 104.96
+    },
+    {
+      "segentID": 20,
+      "word": "mindless",
+      "start": 104.96,
+      "end": 105.68
+    },
+    {
+      "segentID": 20,
+      "word": "rage",
+      "start": 105.68,
+      "end": 106.3
+    },
+    {
+      "segentID": 20,
+      "word": "and",
+      "start": 106.3,
+      "end": 106.56
+    },
+    {
+      "segentID": 20,
+      "word": "began",
+      "start": 106.56,
+      "end": 106.84
+    },
+    {
+      "segentID": 20,
+      "word": "debating",
+      "start": 106.84,
+      "end": 107.48
+    },
+    {
+      "segentID": 20,
+      "word": "with",
+      "start": 107.48,
+      "end": 107.76
+    },
+    {
+      "segentID": 20,
+      "word": "one",
+      "start": 107.76,
+      "end": 107.94
+    },
+    {
+      "segentID": 20,
+      "word": "another",
+      "start": 107.94,
+      "end": 108.22
+    },
+    {
+      "segentID": 20,
+      "word": "what",
+      "start": 108.22,
+      "end": 108.86
+    },
+    {
+      "segentID": 20,
+      "word": "they",
+      "start": 108.86,
+      "end": 109.22
+    },
+    {
+      "segentID": 21,
+      "word": "would",
+      "start": 109.22,
+      "end": 109.6
+    },
+    {
+      "segentID": 21,
+      "word": "do",
+      "start": 109.6,
+      "end": 110.18
+    },
+    {
+      "segentID": 21,
+      "word": "to",
+      "start": 110.18,
+      "end": 110.66
+    },
+    {
+      "segentID": 21,
+      "word": "Jesus.",
+      "start": 110.66,
+      "end": 111.3
+    },
+    {
+      "segentID": 22,
+      "word": "Now",
+      "start": 113.08,
+      "end": 113.38
+    },
+    {
+      "segentID": 22,
+      "word": "it",
+      "start": 113.38,
+      "end": 113.46
+    },
+    {
+      "segentID": 22,
+      "word": "was",
+      "start": 113.46,
+      "end": 113.66
+    },
+    {
+      "segentID": 22,
+      "word": "during",
+      "start": 113.66,
+      "end": 114.1
+    },
+    {
+      "segentID": 22,
+      "word": "this",
+      "start": 114.1,
+      "end": 114.58
+    },
+    {
+      "segentID": 22,
+      "word": "time",
+      "start": 114.58,
+      "end": 114.9
+    },
+    {
+      "segentID": 22,
+      "word": "that",
+      "start": 114.9,
+      "end": 115.26
+    },
+    {
+      "segentID": 22,
+      "word": "Jesus",
+      "start": 115.26,
+      "end": 115.76
+    },
+    {
+      "segentID": 22,
+      "word": "went",
+      "start": 115.76,
+      "end": 116.02
+    },
+    {
+      "segentID": 22,
+      "word": "out",
+      "start": 116.02,
+      "end": 116.3
+    },
+    {
+      "segentID": 22,
+      "word": "to",
+      "start": 116.3,
+      "end": 116.44
+    },
+    {
+      "segentID": 22,
+      "word": "the",
+      "start": 116.44,
+      "end": 116.64
+    },
+    {
+      "segentID": 22,
+      "word": "mountain",
+      "start": 116.64,
+      "end": 117.12
+    },
+    {
+      "segentID": 22,
+      "word": "to",
+      "start": 117.12,
+      "end": 117.54
+    },
+    {
+      "segentID": 22,
+      "word": "pray",
+      "start": 117.54,
+      "end": 117.94
+    },
+    {
+      "segentID": 22,
+      "word": "and",
+      "start": 117.94,
+      "end": 118.26
+    },
+    {
+      "segentID": 22,
+      "word": "He",
+      "start": 118.26,
+      "end": 118.54
+    },
+    {
+      "segentID": 22,
+      "word": "spent",
+      "start": 118.54,
+      "end": 118.7
+    },
+    {
+      "segentID": 22,
+      "word": "all",
+      "start": 118.7,
+      "end": 119.3
+    },
+    {
+      "segentID": 23,
+      "word": "night",
+      "start": 119.3,
+      "end": 119.68
+    },
+    {
+      "segentID": 23,
+      "word": "in",
+      "start": 119.68,
+      "end": 120.12
+    },
+    {
+      "segentID": 23,
+      "word": "prayer",
+      "start": 120.12,
+      "end": 120.36
+    },
+    {
+      "segentID": 23,
+      "word": "to",
+      "start": 120.36,
+      "end": 120.56
+    },
+    {
+      "segentID": 23,
+      "word": "God.",
+      "start": 120.56,
+      "end": 120.86
+    },
+    {
+      "segentID": 24,
+      "word": "When",
+      "start": 121.1,
+      "end": 121.34
+    },
+    {
+      "segentID": 24,
+      "word": "morning",
+      "start": 121.34,
+      "end": 121.68
+    },
+    {
+      "segentID": 24,
+      "word": "came,",
+      "start": 121.68,
+      "end": 122.06
+    },
+    {
+      "segentID": 24,
+      "word": "He",
+      "start": 122.22,
+      "end": 122.4
+    },
+    {
+      "segentID": 24,
+      "word": "called",
+      "start": 122.4,
+      "end": 122.6
+    },
+    {
+      "segentID": 24,
+      "word": "His",
+      "start": 122.6,
+      "end": 122.8
+    },
+    {
+      "segentID": 24,
+      "word": "disciples",
+      "start": 122.8,
+      "end": 123.3
+    },
+    {
+      "segentID": 24,
+      "word": "and",
+      "start": 123.3,
+      "end": 123.7
+    },
+    {
+      "segentID": 24,
+      "word": "chose",
+      "start": 123.7,
+      "end": 124.2
+    },
+    {
+      "segentID": 24,
+      "word": "twelve",
+      "start": 124.2,
+      "end": 124.94
+    },
+    {
+      "segentID": 24,
+      "word": "of",
+      "start": 124.94,
+      "end": 125.2
+    },
+    {
+      "segentID": 24,
+      "word": "them,",
+      "start": 125.2,
+      "end": 125.68
+    },
+    {
+      "segentID": 24,
+      "word": "whom",
+      "start": 125.84,
+      "end": 125.96
+    },
+    {
+      "segentID": 24,
+      "word": "He",
+      "start": 125.96,
+      "end": 126.18
+    },
+    {
+      "segentID": 24,
+      "word": "also",
+      "start": 126.18,
+      "end": 126.68
+    },
+    {
+      "segentID": 24,
+      "word": "named",
+      "start": 126.68,
+      "end": 127.24
+    },
+    {
+      "segentID": 25,
+      "word": "apostles,",
+      "start": 127.24,
+      "end": 128.04
+    },
+    {
+      "segentID": 25,
+      "word": "Simon,",
+      "start": 128.74,
+      "end": 129.14
+    },
+    {
+      "segentID": 25,
+      "word": "whom",
+      "start": 129.56,
+      "end": 129.66
+    },
+    {
+      "segentID": 25,
+      "word": "He",
+      "start": 129.66,
+      "end": 129.82
+    },
+    {
+      "segentID": 25,
+      "word": "named",
+      "start": 129.82,
+      "end": 130.08
+    },
+    {
+      "segentID": 25,
+      "word": "Peter,",
+      "start": 130.08,
+      "end": 130.54
+    },
+    {
+      "segentID": 25,
+      "word": "and",
+      "start": 130.88,
+      "end": 131.1
+    },
+    {
+      "segentID": 25,
+      "word": "his",
+      "start": 131.1,
+      "end": 131.34
+    },
+    {
+      "segentID": 25,
+      "word": "brother",
+      "start": 131.34,
+      "end": 131.74
+    },
+    {
+      "segentID": 25,
+      "word": "Andrew,",
+      "start": 131.74,
+      "end": 132.44
+    },
+    {
+      "segentID": 25,
+      "word": "and",
+      "start": 132.58,
+      "end": 132.92
+    },
+    {
+      "segentID": 25,
+      "word": "James",
+      "start": 132.92,
+      "end": 133.42
+    },
+    {
+      "segentID": 25,
+      "word": "John,",
+      "start": 133.42,
+      "end": 134.06
+    },
+    {
+      "segentID": 25,
+      "word": "Philip",
+      "start": 134.34,
+      "end": 134.86
+    },
+    {
+      "segentID": 26,
+      "word": "Bartholomew,",
+      "start": 134.86,
+      "end": 135.88
+    },
+    {
+      "segentID": 26,
+      "word": "Matthew,",
+      "start": 136.18,
+      "end": 136.84
+    },
+    {
+      "segentID": 26,
+      "word": "Thomas,",
+      "start": 137.22,
+      "end": 137.7
+    },
+    {
+      "segentID": 26,
+      "word": "James,",
+      "start": 138.0,
+      "end": 138.46
+    },
+    {
+      "segentID": 26,
+      "word": "the",
+      "start": 138.54,
+      "end": 138.58
+    },
+    {
+      "segentID": 26,
+      "word": "son",
+      "start": 138.58,
+      "end": 138.76
+    },
+    {
+      "segentID": 26,
+      "word": "of",
+      "start": 138.76,
+      "end": 138.96
+    },
+    {
+      "segentID": 26,
+      "word": "Alphaeus,",
+      "start": 138.96,
+      "end": 139.36
+    },
+    {
+      "segentID": 26,
+      "word": "Simon,",
+      "start": 139.66,
+      "end": 140.02
+    },
+    {
+      "segentID": 26,
+      "word": "who",
+      "start": 140.1,
+      "end": 140.16
+    },
+    {
+      "segentID": 26,
+      "word": "was",
+      "start": 140.16,
+      "end": 140.42
+    },
+    {
+      "segentID": 26,
+      "word": "called",
+      "start": 140.42,
+      "end": 140.64
+    },
+    {
+      "segentID": 26,
+      "word": "the",
+      "start": 140.64,
+      "end": 140.94
+    },
+    {
+      "segentID": 26,
+      "word": "Zealot,",
+      "start": 140.94,
+      "end": 141.44
+    },
+    {
+      "segentID": 27,
+      "word": "Judas,",
+      "start": 141.96,
+      "end": 142.3
+    },
+    {
+      "segentID": 27,
+      "word": "the",
+      "start": 142.48,
+      "end": 142.56
+    },
+    {
+      "segentID": 27,
+      "word": "son",
+      "start": 142.56,
+      "end": 142.76
+    },
+    {
+      "segentID": 27,
+      "word": "of",
+      "start": 142.76,
+      "end": 142.94
+    },
+    {
+      "segentID": 27,
+      "word": "James,",
+      "start": 142.94,
+      "end": 143.54
+    },
+    {
+      "segentID": 27,
+      "word": "and",
+      "start": 144.52,
+      "end": 144.96
+    },
+    {
+      "segentID": 27,
+      "word": "Judas",
+      "start": 144.96,
+      "end": 145.58
+    },
+    {
+      "segentID": 27,
+      "word": "Iscariot,",
+      "start": 145.58,
+      "end": 147.12
+    },
+    {
+      "segentID": 27,
+      "word": "who",
+      "start": 147.36,
+      "end": 147.52
+    },
+    {
+      "segentID": 27,
+      "word": "became",
+      "start": 147.52,
+      "end": 147.86
+    },
+    {
+      "segentID": 27,
+      "word": "a",
+      "start": 147.86,
+      "end": 148.2
+    },
+    {
+      "segentID": 27,
+      "word": "traitor.",
+      "start": 148.2,
+      "end": 148.58
+    },
+    {
+      "segentID": 28,
+      "word": "Then",
+      "start": 149.62,
+      "end": 150.18
+    },
+    {
+      "segentID": 28,
+      "word": "He",
+      "start": 150.18,
+      "end": 150.32
+    },
+    {
+      "segentID": 28,
+      "word": "came",
+      "start": 150.32,
+      "end": 150.56
+    },
+    {
+      "segentID": 28,
+      "word": "down",
+      "start": 150.56,
+      "end": 150.92
+    },
+    {
+      "segentID": 28,
+      "word": "with",
+      "start": 150.92,
+      "end": 151.1
+    },
+    {
+      "segentID": 28,
+      "word": "them",
+      "start": 151.1,
+      "end": 151.26
+    },
+    {
+      "segentID": 28,
+      "word": "and",
+      "start": 151.26,
+      "end": 151.42
+    },
+    {
+      "segentID": 28,
+      "word": "stood",
+      "start": 151.42,
+      "end": 151.74
+    },
+    {
+      "segentID": 28,
+      "word": "on",
+      "start": 151.74,
+      "end": 151.96
+    },
+    {
+      "segentID": 28,
+      "word": "a",
+      "start": 151.96,
+      "end": 152.22
+    },
+    {
+      "segentID": 28,
+      "word": "level",
+      "start": 152.22,
+      "end": 152.44
+    },
+    {
+      "segentID": 28,
+      "word": "place",
+      "start": 152.44,
+      "end": 152.8
+    },
+    {
+      "segentID": 28,
+      "word": "and",
+      "start": 152.8,
+      "end": 153.04
+    },
+    {
+      "segentID": 28,
+      "word": "a",
+      "start": 153.04,
+      "end": 153.36
+    },
+    {
+      "segentID": 28,
+      "word": "large",
+      "start": 153.36,
+      "end": 153.7
+    },
+    {
+      "segentID": 28,
+      "word": "number",
+      "start": 153.7,
+      "end": 153.96
+    },
+    {
+      "segentID": 28,
+      "word": "of",
+      "start": 153.96,
+      "end": 154.06
+    },
+    {
+      "segentID": 28,
+      "word": "His",
+      "start": 154.06,
+      "end": 154.26
+    },
+    {
+      "segentID": 28,
+      "word": "disciples",
+      "start": 154.26,
+      "end": 154.64
+    },
+    {
+      "segentID": 29,
+      "word": "had",
+      "start": 154.64,
+      "end": 154.88
+    },
+    {
+      "segentID": 29,
+      "word": "gathered",
+      "start": 154.88,
+      "end": 155.16
+    },
+    {
+      "segentID": 29,
+      "word": "along",
+      "start": 155.16,
+      "end": 155.48
+    },
+    {
+      "segentID": 29,
+      "word": "with",
+      "start": 155.48,
+      "end": 155.84
+    },
+    {
+      "segentID": 29,
+      "word": "a",
+      "start": 155.84,
+      "end": 156.02
+    },
+    {
+      "segentID": 29,
+      "word": "vast",
+      "start": 156.02,
+      "end": 156.4
+    },
+    {
+      "segentID": 29,
+      "word": "multitude",
+      "start": 156.4,
+      "end": 156.96
+    },
+    {
+      "segentID": 29,
+      "word": "from",
+      "start": 156.96,
+      "end": 157.42
+    },
+    {
+      "segentID": 29,
+      "word": "all",
+      "start": 157.42,
+      "end": 157.68
+    },
+    {
+      "segentID": 29,
+      "word": "over",
+      "start": 157.68,
+      "end": 157.92
+    },
+    {
+      "segentID": 29,
+      "word": "Judea,",
+      "start": 157.92,
+      "end": 158.34
+    },
+    {
+      "segentID": 29,
+      "word": "from",
+      "start": 158.38,
+      "end": 158.56
+    },
+    {
+      "segentID": 29,
+      "word": "Jerusalem",
+      "start": 158.56,
+      "end": 159.12
+    },
+    {
+      "segentID": 29,
+      "word": "and",
+      "start": 159.12,
+      "end": 159.38
+    },
+    {
+      "segentID": 29,
+      "word": "from",
+      "start": 159.38,
+      "end": 159.62
+    },
+    {
+      "segentID": 29,
+      "word": "the",
+      "start": 159.62,
+      "end": 159.82
+    },
+    {
+      "segentID": 30,
+      "word": "sea",
+      "start": 159.82,
+      "end": 160.02
+    },
+    {
+      "segentID": 30,
+      "word": "coast",
+      "start": 160.02,
+      "end": 160.24
+    },
+    {
+      "segentID": 30,
+      "word": "of",
+      "start": 160.24,
+      "end": 160.74
+    },
+    {
+      "segentID": 30,
+      "word": "Tyre",
+      "start": 160.74,
+      "end": 161.24
+    },
+    {
+      "segentID": 30,
+      "word": "and",
+      "start": 161.24,
+      "end": 161.44
+    },
+    {
+      "segentID": 30,
+      "word": "Sidon.",
+      "start": 161.44,
+      "end": 162.22
+    },
+    {
+      "segentID": 31,
+      "word": "They",
+      "start": 162.46,
+      "end": 162.72
+    },
+    {
+      "segentID": 31,
+      "word": "came",
+      "start": 162.72,
+      "end": 162.96
+    },
+    {
+      "segentID": 31,
+      "word": "to",
+      "start": 162.96,
+      "end": 163.26
+    },
+    {
+      "segentID": 31,
+      "word": "hear",
+      "start": 163.26,
+      "end": 163.44
+    },
+    {
+      "segentID": 31,
+      "word": "Him",
+      "start": 163.44,
+      "end": 163.7
+    },
+    {
+      "segentID": 31,
+      "word": "and",
+      "start": 163.7,
+      "end": 163.88
+    },
+    {
+      "segentID": 31,
+      "word": "to",
+      "start": 163.88,
+      "end": 164.04
+    },
+    {
+      "segentID": 31,
+      "word": "be",
+      "start": 164.04,
+      "end": 164.32
+    },
+    {
+      "segentID": 31,
+      "word": "healed",
+      "start": 164.32,
+      "end": 164.6
+    },
+    {
+      "segentID": 31,
+      "word": "of",
+      "start": 164.6,
+      "end": 164.78
+    },
+    {
+      "segentID": 31,
+      "word": "their",
+      "start": 164.78,
+      "end": 164.98
+    },
+    {
+      "segentID": 31,
+      "word": "diseases",
+      "start": 164.98,
+      "end": 165.54
+    },
+    {
+      "segentID": 31,
+      "word": "and",
+      "start": 165.54,
+      "end": 166.38
+    },
+    {
+      "segentID": 31,
+      "word": "those",
+      "start": 166.38,
+      "end": 166.68
+    },
+    {
+      "segentID": 31,
+      "word": "who",
+      "start": 166.68,
+      "end": 167.04
+    },
+    {
+      "segentID": 31,
+      "word": "suffered",
+      "start": 167.04,
+      "end": 167.28
+    },
+    {
+      "segentID": 31,
+      "word": "from",
+      "start": 167.28,
+      "end": 167.5
+    },
+    {
+      "segentID": 32,
+      "word": "unclean",
+      "start": 167.5,
+      "end": 168.12
+    },
+    {
+      "segentID": 32,
+      "word": "spirits",
+      "start": 168.12,
+      "end": 168.56
+    },
+    {
+      "segentID": 32,
+      "word": "were",
+      "start": 168.56,
+      "end": 168.96
+    },
+    {
+      "segentID": 32,
+      "word": "cured.",
+      "start": 168.96,
+      "end": 169.44
+    },
+    {
+      "segentID": 33,
+      "word": "The",
+      "start": 170.0,
+      "end": 170.2
+    },
+    {
+      "segentID": 33,
+      "word": "whole",
+      "start": 170.2,
+      "end": 170.48
+    },
+    {
+      "segentID": 33,
+      "word": "crowd",
+      "start": 170.48,
+      "end": 170.78
+    },
+    {
+      "segentID": 33,
+      "word": "was",
+      "start": 170.78,
+      "end": 171.16
+    },
+    {
+      "segentID": 33,
+      "word": "trying",
+      "start": 171.16,
+      "end": 171.48
+    },
+    {
+      "segentID": 33,
+      "word": "to",
+      "start": 171.48,
+      "end": 171.82
+    },
+    {
+      "segentID": 33,
+      "word": "touch",
+      "start": 171.82,
+      "end": 172.0
+    },
+    {
+      "segentID": 33,
+      "word": "Him",
+      "start": 172.0,
+      "end": 172.22
+    },
+    {
+      "segentID": 33,
+      "word": "because",
+      "start": 172.22,
+      "end": 172.58
+    },
+    {
+      "segentID": 33,
+      "word": "power",
+      "start": 172.58,
+      "end": 173.06
+    },
+    {
+      "segentID": 33,
+      "word": "was",
+      "start": 173.06,
+      "end": 173.36
+    },
+    {
+      "segentID": 33,
+      "word": "coming",
+      "start": 173.36,
+      "end": 173.6
+    },
+    {
+      "segentID": 33,
+      "word": "out",
+      "start": 173.6,
+      "end": 173.92
+    },
+    {
+      "segentID": 33,
+      "word": "from",
+      "start": 173.92,
+      "end": 174.06
+    },
+    {
+      "segentID": 33,
+      "word": "Him",
+      "start": 174.06,
+      "end": 174.26
+    },
+    {
+      "segentID": 33,
+      "word": "and",
+      "start": 174.26,
+      "end": 174.54
+    },
+    {
+      "segentID": 33,
+      "word": "healing",
+      "start": 174.54,
+      "end": 174.88
+    },
+    {
+      "segentID": 34,
+      "word": "them",
+      "start": 174.88,
+      "end": 175.16
+    },
+    {
+      "segentID": 34,
+      "word": "all.",
+      "start": 175.16,
+      "end": 175.4
+    },
+    {
+      "segentID": 35,
+      "word": "Then",
+      "start": 175.58,
+      "end": 175.82
+    },
+    {
+      "segentID": 35,
+      "word": "He",
+      "start": 175.82,
+      "end": 176.14
+    },
+    {
+      "segentID": 35,
+      "word": "looked",
+      "start": 176.14,
+      "end": 176.44
+    },
+    {
+      "segentID": 35,
+      "word": "up",
+      "start": 176.44,
+      "end": 176.74
+    },
+    {
+      "segentID": 35,
+      "word": "at",
+      "start": 176.74,
+      "end": 176.92
+    },
+    {
+      "segentID": 35,
+      "word": "His",
+      "start": 176.92,
+      "end": 177.16
+    },
+    {
+      "segentID": 35,
+      "word": "disciples",
+      "start": 177.16,
+      "end": 177.56
+    },
+    {
+      "segentID": 35,
+      "word": "and",
+      "start": 177.56,
+      "end": 177.82
+    },
+    {
+      "segentID": 35,
+      "word": "said,",
+      "start": 177.82,
+      "end": 178.16
+    },
+    {
+      "segentID": 35,
+      "word": "Blessed",
+      "start": 179.62,
+      "end": 180.08
+    },
+    {
+      "segentID": 35,
+      "word": "are",
+      "start": 180.08,
+      "end": 180.44
+    },
+    {
+      "segentID": 35,
+      "word": "you",
+      "start": 180.44,
+      "end": 180.86
+    },
+    {
+      "segentID": 35,
+      "word": "who",
+      "start": 180.86,
+      "end": 181.02
+    },
+    {
+      "segentID": 35,
+      "word": "are",
+      "start": 181.02,
+      "end": 181.42
+    },
+    {
+      "segentID": 35,
+      "word": "poor,",
+      "start": 181.42,
+      "end": 181.92
+    },
+    {
+      "segentID": 35,
+      "word": "for",
+      "start": 182.44,
+      "end": 182.6
+    },
+    {
+      "segentID": 35,
+      "word": "the",
+      "start": 182.6,
+      "end": 182.82
+    },
+    {
+      "segentID": 35,
+      "word": "kingdom",
+      "start": 182.82,
+      "end": 183.06
+    },
+    {
+      "segentID": 36,
+      "word": "of",
+      "start": 183.06,
+      "end": 183.18
+    },
+    {
+      "segentID": 36,
+      "word": "God",
+      "start": 183.18,
+      "end": 183.48
+    },
+    {
+      "segentID": 36,
+      "word": "belongs",
+      "start": 183.48,
+      "end": 183.98
+    },
+    {
+      "segentID": 36,
+      "word": "to",
+      "start": 183.98,
+      "end": 184.22
+    },
+    {
+      "segentID": 36,
+      "word": "you.",
+      "start": 184.22,
+      "end": 184.98
+    },
+    {
+      "segentID": 37,
+      "word": "Blessed",
+      "start": 185.5,
+      "end": 185.8
+    },
+    {
+      "segentID": 37,
+      "word": "are",
+      "start": 185.8,
+      "end": 186.12
+    },
+    {
+      "segentID": 37,
+      "word": "you",
+      "start": 186.12,
+      "end": 186.52
+    },
+    {
+      "segentID": 37,
+      "word": "who",
+      "start": 186.52,
+      "end": 186.84
+    },
+    {
+      "segentID": 37,
+      "word": "hunger",
+      "start": 186.84,
+      "end": 187.3
+    },
+    {
+      "segentID": 37,
+      "word": "now,",
+      "start": 187.3,
+      "end": 187.9
+    },
+    {
+      "segentID": 37,
+      "word": "for",
+      "start": 188.06,
+      "end": 188.28
+    },
+    {
+      "segentID": 37,
+      "word": "you",
+      "start": 188.28,
+      "end": 188.64
+    },
+    {
+      "segentID": 37,
+      "word": "will",
+      "start": 188.64,
+      "end": 189.0
+    },
+    {
+      "segentID": 37,
+      "word": "be",
+      "start": 189.0,
+      "end": 189.42
+    },
+    {
+      "segentID": 37,
+      "word": "satisfied.",
+      "start": 189.42,
+      "end": 190.18
+    },
+    {
+      "segentID": 38,
+      "word": "Blessed",
+      "start": 191.54,
+      "end": 191.8
+    },
+    {
+      "segentID": 38,
+      "word": "are",
+      "start": 191.8,
+      "end": 192.02
+    },
+    {
+      "segentID": 38,
+      "word": "you",
+      "start": 192.02,
+      "end": 192.22
+    },
+    {
+      "segentID": 38,
+      "word": "who",
+      "start": 192.22,
+      "end": 192.52
+    },
+    {
+      "segentID": 38,
+      "word": "weep",
+      "start": 192.52,
+      "end": 192.88
+    },
+    {
+      "segentID": 38,
+      "word": "now,",
+      "start": 192.88,
+      "end": 193.8
+    },
+    {
+      "segentID": 38,
+      "word": "for",
+      "start": 194.3,
+      "end": 194.5
+    },
+    {
+      "segentID": 38,
+      "word": "you",
+      "start": 194.5,
+      "end": 194.92
+    },
+    {
+      "segentID": 38,
+      "word": "will",
+      "start": 194.92,
+      "end": 195.4
+    },
+    {
+      "segentID": 38,
+      "word": "laugh.",
+      "start": 195.4,
+      "end": 196.06
+    },
+    {
+      "segentID": 39,
+      "word": "Blessed",
+      "start": 197.74,
+      "end": 198.04
+    },
+    {
+      "segentID": 39,
+      "word": "are",
+      "start": 198.04,
+      "end": 198.28
+    },
+    {
+      "segentID": 39,
+      "word": "you",
+      "start": 198.28,
+      "end": 198.5
+    },
+    {
+      "segentID": 39,
+      "word": "when",
+      "start": 198.5,
+      "end": 198.68
+    },
+    {
+      "segentID": 39,
+      "word": "people",
+      "start": 198.68,
+      "end": 199.02
+    },
+    {
+      "segentID": 39,
+      "word": "hate",
+      "start": 199.02,
+      "end": 199.34
+    },
+    {
+      "segentID": 39,
+      "word": "you",
+      "start": 199.34,
+      "end": 200.0
+    },
+    {
+      "segentID": 39,
+      "word": "and",
+      "start": 200.0,
+      "end": 200.36
+    },
+    {
+      "segentID": 39,
+      "word": "when",
+      "start": 200.36,
+      "end": 200.52
+    },
+    {
+      "segentID": 39,
+      "word": "they",
+      "start": 200.52,
+      "end": 200.9
+    },
+    {
+      "segentID": 39,
+      "word": "exclude",
+      "start": 200.9,
+      "end": 201.42
+    },
+    {
+      "segentID": 39,
+      "word": "you",
+      "start": 201.42,
+      "end": 201.64
+    },
+    {
+      "segentID": 39,
+      "word": "and",
+      "start": 201.64,
+      "end": 201.82
+    },
+    {
+      "segentID": 39,
+      "word": "insult",
+      "start": 201.82,
+      "end": 202.3
+    },
+    {
+      "segentID": 39,
+      "word": "you",
+      "start": 202.3,
+      "end": 202.48
+    },
+    {
+      "segentID": 39,
+      "word": "and",
+      "start": 202.48,
+      "end": 202.62
+    },
+    {
+      "segentID": 39,
+      "word": "reject",
+      "start": 202.62,
+      "end": 203.14
+    },
+    {
+      "segentID": 40,
+      "word": "you",
+      "start": 203.14,
+      "end": 203.32
+    },
+    {
+      "segentID": 40,
+      "word": "as",
+      "start": 203.32,
+      "end": 203.64
+    },
+    {
+      "segentID": 40,
+      "word": "evil",
+      "start": 203.64,
+      "end": 204.0
+    },
+    {
+      "segentID": 40,
+      "word": "on",
+      "start": 204.0,
+      "end": 204.26
+    },
+    {
+      "segentID": 40,
+      "word": "account",
+      "start": 204.26,
+      "end": 204.48
+    },
+    {
+      "segentID": 40,
+      "word": "of",
+      "start": 204.48,
+      "end": 204.64
+    },
+    {
+      "segentID": 40,
+      "word": "the",
+      "start": 204.64,
+      "end": 204.78
+    },
+    {
+      "segentID": 40,
+      "word": "Son",
+      "start": 204.78,
+      "end": 204.9
+    },
+    {
+      "segentID": 40,
+      "word": "of",
+      "start": 204.9,
+      "end": 205.12
+    },
+    {
+      "segentID": 40,
+      "word": "Man.",
+      "start": 205.12,
+      "end": 205.7
+    },
+    {
+      "segentID": 41,
+      "word": "Rejoice",
+      "start": 205.96,
+      "end": 206.56
+    },
+    {
+      "segentID": 41,
+      "word": "in",
+      "start": 206.56,
+      "end": 206.7
+    },
+    {
+      "segentID": 41,
+      "word": "that",
+      "start": 206.7,
+      "end": 206.9
+    },
+    {
+      "segentID": 41,
+      "word": "day",
+      "start": 206.9,
+      "end": 207.32
+    },
+    {
+      "segentID": 41,
+      "word": "and",
+      "start": 207.32,
+      "end": 207.72
+    },
+    {
+      "segentID": 41,
+      "word": "jump",
+      "start": 207.72,
+      "end": 208.0
+    },
+    {
+      "segentID": 41,
+      "word": "for",
+      "start": 208.0,
+      "end": 208.24
+    },
+    {
+      "segentID": 41,
+      "word": "joy",
+      "start": 208.24,
+      "end": 208.74
+    },
+    {
+      "segentID": 41,
+      "word": "because",
+      "start": 208.74,
+      "end": 209.66
+    },
+    {
+      "segentID": 41,
+      "word": "your",
+      "start": 209.66,
+      "end": 209.98
+    },
+    {
+      "segentID": 41,
+      "word": "reward",
+      "start": 209.98,
+      "end": 210.5
+    },
+    {
+      "segentID": 41,
+      "word": "is",
+      "start": 210.5,
+      "end": 210.94
+    },
+    {
+      "segentID": 41,
+      "word": "great",
+      "start": 210.94,
+      "end": 211.32
+    },
+    {
+      "segentID": 41,
+      "word": "in",
+      "start": 211.32,
+      "end": 211.62
+    },
+    {
+      "segentID": 41,
+      "word": "heaven.",
+      "start": 211.62,
+      "end": 212.02
+    },
+    {
+      "segentID": 42,
+      "word": "For",
+      "start": 212.55,
+      "end": 212.96
+    },
+    {
+      "segentID": 42,
+      "word": "their",
+      "start": 212.96,
+      "end": 213.3
+    },
+    {
+      "segentID": 42,
+      "word": "ancestors",
+      "start": 213.3,
+      "end": 214.02
+    },
+    {
+      "segentID": 42,
+      "word": "did",
+      "start": 214.02,
+      "end": 214.28
+    },
+    {
+      "segentID": 42,
+      "word": "the",
+      "start": 214.28,
+      "end": 214.62
+    },
+    {
+      "segentID": 42,
+      "word": "same",
+      "start": 214.62,
+      "end": 215.0
+    },
+    {
+      "segentID": 42,
+      "word": "things",
+      "start": 215.0,
+      "end": 215.46
+    },
+    {
+      "segentID": 42,
+      "word": "to",
+      "start": 215.46,
+      "end": 215.68
+    },
+    {
+      "segentID": 42,
+      "word": "the",
+      "start": 215.68,
+      "end": 215.9
+    },
+    {
+      "segentID": 42,
+      "word": "prophets.",
+      "start": 215.9,
+      "end": 216.34
+    },
+    {
+      "segentID": 43,
+      "word": "But",
+      "start": 218.14,
+      "end": 218.32
+    },
+    {
+      "segentID": 43,
+      "word": "woe",
+      "start": 218.32,
+      "end": 218.78
+    },
+    {
+      "segentID": 43,
+      "word": "to",
+      "start": 218.78,
+      "end": 218.96
+    },
+    {
+      "segentID": 43,
+      "word": "you",
+      "start": 218.96,
+      "end": 219.28
+    },
+    {
+      "segentID": 43,
+      "word": "who",
+      "start": 219.28,
+      "end": 219.42
+    },
+    {
+      "segentID": 43,
+      "word": "are",
+      "start": 219.42,
+      "end": 219.84
+    },
+    {
+      "segentID": 43,
+      "word": "rich,",
+      "start": 219.84,
+      "end": 220.34
+    },
+    {
+      "segentID": 43,
+      "word": "for",
+      "start": 221.08,
+      "end": 221.22
+    },
+    {
+      "segentID": 43,
+      "word": "you",
+      "start": 221.22,
+      "end": 221.46
+    },
+    {
+      "segentID": 43,
+      "word": "have",
+      "start": 221.46,
+      "end": 221.66
+    },
+    {
+      "segentID": 43,
+      "word": "received",
+      "start": 221.66,
+      "end": 222.2
+    },
+    {
+      "segentID": 43,
+      "word": "your",
+      "start": 222.2,
+      "end": 222.54
+    },
+    {
+      "segentID": 43,
+      "word": "comfort",
+      "start": 222.54,
+      "end": 223.02
+    },
+    {
+      "segentID": 43,
+      "word": "already.",
+      "start": 223.02,
+      "end": 223.88
+    },
+    {
+      "segentID": 44,
+      "word": "Woe",
+      "start": 225.24,
+      "end": 225.64
+    },
+    {
+      "segentID": 44,
+      "word": "to",
+      "start": 225.64,
+      "end": 225.76
+    },
+    {
+      "segentID": 44,
+      "word": "you",
+      "start": 225.76,
+      "end": 226.06
+    },
+    {
+      "segentID": 44,
+      "word": "who",
+      "start": 226.06,
+      "end": 226.3
+    },
+    {
+      "segentID": 44,
+      "word": "are",
+      "start": 226.3,
+      "end": 226.62
+    },
+    {
+      "segentID": 44,
+      "word": "well",
+      "start": 226.62,
+      "end": 227.2
+    },
+    {
+      "segentID": 44,
+      "word": "satisfied",
+      "start": 227.2,
+      "end": 227.88
+    },
+    {
+      "segentID": 44,
+      "word": "with",
+      "start": 227.88,
+      "end": 228.32
+    },
+    {
+      "segentID": 44,
+      "word": "food",
+      "start": 228.32,
+      "end": 228.94
+    },
+    {
+      "segentID": 44,
+      "word": "now,",
+      "start": 228.94,
+      "end": 229.78
+    },
+    {
+      "segentID": 44,
+      "word": "for",
+      "start": 230.3,
+      "end": 230.7
+    },
+    {
+      "segentID": 44,
+      "word": "you",
+      "start": 230.7,
+      "end": 231.4
+    },
+    {
+      "segentID": 44,
+      "word": "will",
+      "start": 231.4,
+      "end": 231.86
+    },
+    {
+      "segentID": 44,
+      "word": "be",
+      "start": 231.86,
+      "end": 232.22
+    },
+    {
+      "segentID": 44,
+      "word": "hungry.",
+      "start": 232.22,
+      "end": 233.08
+    },
+    {
+      "segentID": 45,
+      "word": "Woe",
+      "start": 234.88,
+      "end": 235.32
+    },
+    {
+      "segentID": 45,
+      "word": "to",
+      "start": 235.32,
+      "end": 235.44
+    },
+    {
+      "segentID": 45,
+      "word": "you",
+      "start": 235.44,
+      "end": 235.78
+    },
+    {
+      "segentID": 45,
+      "word": "who",
+      "start": 235.78,
+      "end": 236.1
+    },
+    {
+      "segentID": 45,
+      "word": "laugh",
+      "start": 236.1,
+      "end": 236.44
+    },
+    {
+      "segentID": 45,
+      "word": "now,",
+      "start": 236.44,
+      "end": 237.22
+    },
+    {
+      "segentID": 45,
+      "word": "for",
+      "start": 238.24,
+      "end": 238.54
+    },
+    {
+      "segentID": 45,
+      "word": "you",
+      "start": 238.54,
+      "end": 238.76
+    },
+    {
+      "segentID": 45,
+      "word": "will",
+      "start": 238.76,
+      "end": 239.1
+    },
+    {
+      "segentID": 45,
+      "word": "mourn",
+      "start": 239.1,
+      "end": 239.94
+    },
+    {
+      "segentID": 45,
+      "word": "and",
+      "start": 239.94,
+      "end": 240.32
+    },
+    {
+      "segentID": 45,
+      "word": "weep.",
+      "start": 240.32,
+      "end": 241.3
+    },
+    {
+      "segentID": 46,
+      "word": "Woe",
+      "start": 242.6,
+      "end": 243.2
+    },
+    {
+      "segentID": 46,
+      "word": "to",
+      "start": 243.2,
+      "end": 243.32
+    },
+    {
+      "segentID": 46,
+      "word": "you",
+      "start": 243.32,
+      "end": 243.5
+    },
+    {
+      "segentID": 46,
+      "word": "when",
+      "start": 243.5,
+      "end": 243.72
+    },
+    {
+      "segentID": 46,
+      "word": "all",
+      "start": 243.72,
+      "end": 244.24
+    },
+    {
+      "segentID": 46,
+      "word": "people",
+      "start": 244.24,
+      "end": 244.84
+    },
+    {
+      "segentID": 46,
+      "word": "speak",
+      "start": 244.84,
+      "end": 245.22
+    },
+    {
+      "segentID": 46,
+      "word": "well",
+      "start": 245.22,
+      "end": 245.52
+    },
+    {
+      "segentID": 46,
+      "word": "of",
+      "start": 245.52,
+      "end": 245.64
+    },
+    {
+      "segentID": 46,
+      "word": "you,",
+      "start": 245.64,
+      "end": 246.74
+    },
+    {
+      "segentID": 46,
+      "word": "for",
+      "start": 247.02,
+      "end": 247.18
+    },
+    {
+      "segentID": 46,
+      "word": "their",
+      "start": 247.18,
+      "end": 247.48
+    },
+    {
+      "segentID": 46,
+      "word": "ancestors",
+      "start": 247.48,
+      "end": 248.16
+    },
+    {
+      "segentID": 46,
+      "word": "did",
+      "start": 248.16,
+      "end": 248.5
+    },
+    {
+      "segentID": 46,
+      "word": "the",
+      "start": 248.5,
+      "end": 248.92
+    },
+    {
+      "segentID": 46,
+      "word": "same",
+      "start": 248.92,
+      "end": 249.38
+    },
+    {
+      "segentID": 46,
+      "word": "things",
+      "start": 249.38,
+      "end": 250.18
+    },
+    {
+      "segentID": 46,
+      "word": "to",
+      "start": 250.18,
+      "end": 251.12
+    },
+    {
+      "segentID": 47,
+      "word": "the",
+      "start": 251.12,
+      "end": 251.54
+    },
+    {
+      "segentID": 47,
+      "word": "false",
+      "start": 251.54,
+      "end": 252.08
+    },
+    {
+      "segentID": 47,
+      "word": "prophets.",
+      "start": 252.08,
+      "end": 252.68
+    },
+    {
+      "segentID": 48,
+      "word": "But",
+      "start": 253.86,
+      "end": 254.36
+    },
+    {
+      "segentID": 48,
+      "word": "I",
+      "start": 254.36,
+      "end": 254.58
+    },
+    {
+      "segentID": 48,
+      "word": "say",
+      "start": 254.58,
+      "end": 254.68
+    },
+    {
+      "segentID": 48,
+      "word": "to",
+      "start": 254.68,
+      "end": 254.86
+    },
+    {
+      "segentID": 48,
+      "word": "you",
+      "start": 254.86,
+      "end": 255.06
+    },
+    {
+      "segentID": 48,
+      "word": "who",
+      "start": 255.06,
+      "end": 255.22
+    },
+    {
+      "segentID": 48,
+      "word": "are",
+      "start": 255.22,
+      "end": 255.42
+    },
+    {
+      "segentID": 48,
+      "word": "listening,",
+      "start": 255.42,
+      "end": 255.84
+    },
+    {
+      "segentID": 48,
+      "word": "love",
+      "start": 257.16,
+      "end": 257.44
+    },
+    {
+      "segentID": 48,
+      "word": "your",
+      "start": 257.44,
+      "end": 257.68
+    },
+    {
+      "segentID": 48,
+      "word": "enemies,",
+      "start": 257.68,
+      "end": 258.02
+    },
+    {
+      "segentID": 48,
+      "word": "do",
+      "start": 259.14,
+      "end": 259.4
+    },
+    {
+      "segentID": 48,
+      "word": "good",
+      "start": 259.4,
+      "end": 259.96
+    },
+    {
+      "segentID": 48,
+      "word": "to",
+      "start": 259.96,
+      "end": 260.12
+    },
+    {
+      "segentID": 48,
+      "word": "those",
+      "start": 260.12,
+      "end": 260.46
+    },
+    {
+      "segentID": 48,
+      "word": "who",
+      "start": 260.46,
+      "end": 260.76
+    },
+    {
+      "segentID": 48,
+      "word": "hate",
+      "start": 260.76,
+      "end": 260.94
+    },
+    {
+      "segentID": 48,
+      "word": "you,",
+      "start": 260.94,
+      "end": 261.22
+    },
+    {
+      "segentID": 48,
+      "word": "bless",
+      "start": 261.3,
+      "end": 261.76
+    },
+    {
+      "segentID": 49,
+      "word": "those",
+      "start": 261.76,
+      "end": 262.16
+    },
+    {
+      "segentID": 49,
+      "word": "who",
+      "start": 262.16,
+      "end": 262.46
+    },
+    {
+      "segentID": 49,
+      "word": "curse",
+      "start": 262.46,
+      "end": 262.66
+    },
+    {
+      "segentID": 49,
+      "word": "you,",
+      "start": 262.66,
+      "end": 262.92
+    },
+    {
+      "segentID": 49,
+      "word": "pray",
+      "start": 262.98,
+      "end": 263.38
+    },
+    {
+      "segentID": 49,
+      "word": "for",
+      "start": 263.38,
+      "end": 263.58
+    },
+    {
+      "segentID": 49,
+      "word": "those",
+      "start": 263.58,
+      "end": 263.92
+    },
+    {
+      "segentID": 49,
+      "word": "who",
+      "start": 263.92,
+      "end": 264.14
+    },
+    {
+      "segentID": 49,
+      "word": "mistreat",
+      "start": 264.14,
+      "end": 264.56
+    },
+    {
+      "segentID": 49,
+      "word": "you,",
+      "start": 264.56,
+      "end": 265.18
+    },
+    {
+      "segentID": 49,
+      "word": "to",
+      "start": 265.74,
+      "end": 265.9
+    },
+    {
+      "segentID": 49,
+      "word": "the",
+      "start": 265.9,
+      "end": 266.1
+    },
+    {
+      "segentID": 49,
+      "word": "person",
+      "start": 266.1,
+      "end": 266.4
+    },
+    {
+      "segentID": 49,
+      "word": "who",
+      "start": 266.4,
+      "end": 266.84
+    },
+    {
+      "segentID": 49,
+      "word": "strikes",
+      "start": 266.84,
+      "end": 267.16
+    },
+    {
+      "segentID": 49,
+      "word": "you",
+      "start": 267.16,
+      "end": 267.46
+    },
+    {
+      "segentID": 49,
+      "word": "on",
+      "start": 267.46,
+      "end": 267.7
+    },
+    {
+      "segentID": 49,
+      "word": "the",
+      "start": 267.7,
+      "end": 267.96
+    },
+    {
+      "segentID": 50,
+      "word": "offer",
+      "start": 267.96,
+      "end": 268.58
+    },
+    {
+      "segentID": 50,
+      "word": "the",
+      "start": 268.58,
+      "end": 268.86
+    },
+    {
+      "segentID": 50,
+      "word": "other",
+      "start": 268.86,
+      "end": 269.08
+    },
+    {
+      "segentID": 50,
+      "word": "as",
+      "start": 269.08,
+      "end": 269.36
+    },
+    {
+      "segentID": 50,
+      "word": "well,",
+      "start": 269.36,
+      "end": 269.94
+    },
+    {
+      "segentID": 50,
+      "word": "and",
+      "start": 270.34,
+      "end": 270.56
+    },
+    {
+      "segentID": 50,
+      "word": "from",
+      "start": 270.56,
+      "end": 270.72
+    },
+    {
+      "segentID": 50,
+      "word": "the",
+      "start": 270.72,
+      "end": 270.9
+    },
+    {
+      "segentID": 50,
+      "word": "person",
+      "start": 270.9,
+      "end": 271.2
+    },
+    {
+      "segentID": 50,
+      "word": "who",
+      "start": 271.2,
+      "end": 271.46
+    },
+    {
+      "segentID": 50,
+      "word": "takes",
+      "start": 271.46,
+      "end": 271.74
+    },
+    {
+      "segentID": 50,
+      "word": "away",
+      "start": 271.74,
+      "end": 272.08
+    },
+    {
+      "segentID": 50,
+      "word": "your",
+      "start": 272.08,
+      "end": 272.4
+    },
+    {
+      "segentID": 50,
+      "word": "coat,",
+      "start": 272.4,
+      "end": 272.8
+    },
+    {
+      "segentID": 50,
+      "word": "do",
+      "start": 274.0,
+      "end": 274.1
+    },
+    {
+      "segentID": 50,
+      "word": "not",
+      "start": 274.1,
+      "end": 274.36
+    },
+    {
+      "segentID": 50,
+      "word": "withhold",
+      "start": 274.36,
+      "end": 274.88
+    },
+    {
+      "segentID": 51,
+      "word": "your",
+      "start": 274.88,
+      "end": 275.32
+    },
+    {
+      "segentID": 51,
+      "word": "tunic",
+      "start": 275.32,
+      "end": 275.86
+    },
+    {
+      "segentID": 51,
+      "word": "either.",
+      "start": 275.86,
+      "end": 276.88
+    },
+    {
+      "segentID": 52,
+      "word": "Give",
+      "start": 277.74,
+      "end": 278.02
+    },
+    {
+      "segentID": 52,
+      "word": "to",
+      "start": 278.02,
+      "end": 278.28
+    },
+    {
+      "segentID": 52,
+      "word": "everyone",
+      "start": 278.28,
+      "end": 278.76
+    },
+    {
+      "segentID": 52,
+      "word": "who",
+      "start": 278.76,
+      "end": 279.02
+    },
+    {
+      "segentID": 52,
+      "word": "asks",
+      "start": 279.02,
+      "end": 279.34
+    },
+    {
+      "segentID": 52,
+      "word": "you",
+      "start": 279.34,
+      "end": 279.54
+    },
+    {
+      "segentID": 52,
+      "word": "and",
+      "start": 279.54,
+      "end": 279.64
+    },
+    {
+      "segentID": 52,
+      "word": "do",
+      "start": 279.64,
+      "end": 279.86
+    },
+    {
+      "segentID": 52,
+      "word": "not",
+      "start": 279.86,
+      "end": 280.02
+    },
+    {
+      "segentID": 52,
+      "word": "ask",
+      "start": 280.02,
+      "end": 280.32
+    },
+    {
+      "segentID": 52,
+      "word": "for",
+      "start": 280.32,
+      "end": 280.52
+    },
+    {
+      "segentID": 52,
+      "word": "your",
+      "start": 280.52,
+      "end": 280.78
+    },
+    {
+      "segentID": 52,
+      "word": "possessions",
+      "start": 280.78,
+      "end": 281.1
+    },
+    {
+      "segentID": 52,
+      "word": "back",
+      "start": 281.1,
+      "end": 281.54
+    },
+    {
+      "segentID": 52,
+      "word": "from",
+      "start": 281.54,
+      "end": 281.72
+    },
+    {
+      "segentID": 52,
+      "word": "the",
+      "start": 281.72,
+      "end": 281.94
+    },
+    {
+      "segentID": 52,
+      "word": "person",
+      "start": 281.94,
+      "end": 282.14
+    },
+    {
+      "segentID": 53,
+      "word": "who",
+      "start": 282.14,
+      "end": 282.34
+    },
+    {
+      "segentID": 53,
+      "word": "takes",
+      "start": 282.34,
+      "end": 282.54
+    },
+    {
+      "segentID": 53,
+      "word": "them",
+      "start": 282.54,
+      "end": 282.78
+    },
+    {
+      "segentID": 53,
+      "word": "away.",
+      "start": 282.78,
+      "end": 283.38
+    },
+    {
+      "segentID": 54,
+      "word": "Treat",
+      "start": 284.24,
+      "end": 284.56
+    },
+    {
+      "segentID": 54,
+      "word": "others",
+      "start": 284.56,
+      "end": 285.0
+    },
+    {
+      "segentID": 54,
+      "word": "in",
+      "start": 285.0,
+      "end": 285.3
+    },
+    {
+      "segentID": 54,
+      "word": "the",
+      "start": 285.3,
+      "end": 285.6
+    },
+    {
+      "segentID": 54,
+      "word": "same",
+      "start": 285.6,
+      "end": 285.88
+    },
+    {
+      "segentID": 54,
+      "word": "way",
+      "start": 285.88,
+      "end": 286.16
+    },
+    {
+      "segentID": 54,
+      "word": "that",
+      "start": 286.16,
+      "end": 286.4
+    },
+    {
+      "segentID": 54,
+      "word": "you",
+      "start": 286.4,
+      "end": 286.52
+    },
+    {
+      "segentID": 54,
+      "word": "would",
+      "start": 286.52,
+      "end": 286.74
+    },
+    {
+      "segentID": 54,
+      "word": "want",
+      "start": 286.74,
+      "end": 286.92
+    },
+    {
+      "segentID": 54,
+      "word": "them",
+      "start": 286.92,
+      "end": 287.1
+    },
+    {
+      "segentID": 54,
+      "word": "to",
+      "start": 287.1,
+      "end": 287.36
+    },
+    {
+      "segentID": 54,
+      "word": "treat",
+      "start": 287.36,
+      "end": 287.5
+    },
+    {
+      "segentID": 54,
+      "word": "you.",
+      "start": 287.5,
+      "end": 288.16
+    },
+    {
+      "segentID": 55,
+      "word": "If",
+      "start": 289.1,
+      "end": 289.42
+    },
+    {
+      "segentID": 55,
+      "word": "you",
+      "start": 289.42,
+      "end": 289.64
+    },
+    {
+      "segentID": 55,
+      "word": "love",
+      "start": 289.64,
+      "end": 289.86
+    },
+    {
+      "segentID": 55,
+      "word": "those",
+      "start": 289.86,
+      "end": 290.2
+    },
+    {
+      "segentID": 55,
+      "word": "who",
+      "start": 290.2,
+      "end": 290.52
+    },
+    {
+      "segentID": 55,
+      "word": "love",
+      "start": 290.52,
+      "end": 290.78
+    },
+    {
+      "segentID": 55,
+      "word": "you,",
+      "start": 290.78,
+      "end": 291.12
+    },
+    {
+      "segentID": 55,
+      "word": "what",
+      "start": 291.18,
+      "end": 291.46
+    },
+    {
+      "segentID": 55,
+      "word": "credit",
+      "start": 291.46,
+      "end": 291.76
+    },
+    {
+      "segentID": 55,
+      "word": "is",
+      "start": 291.76,
+      "end": 292.02
+    },
+    {
+      "segentID": 55,
+      "word": "that",
+      "start": 292.02,
+      "end": 292.18
+    },
+    {
+      "segentID": 55,
+      "word": "to",
+      "start": 292.18,
+      "end": 292.4
+    },
+    {
+      "segentID": 55,
+      "word": "you,",
+      "start": 292.4,
+      "end": 292.6
+    },
+    {
+      "segentID": 55,
+      "word": "for",
+      "start": 292.6,
+      "end": 292.8
+    },
+    {
+      "segentID": 55,
+      "word": "even",
+      "start": 292.8,
+      "end": 293.18
+    },
+    {
+      "segentID": 55,
+      "word": "sinners",
+      "start": 293.18,
+      "end": 293.5
+    },
+    {
+      "segentID": 55,
+      "word": "love",
+      "start": 293.5,
+      "end": 293.8
+    },
+    {
+      "segentID": 55,
+      "word": "those",
+      "start": 293.8,
+      "end": 294.06
+    },
+    {
+      "segentID": 56,
+      "word": "who",
+      "start": 294.06,
+      "end": 294.28
+    },
+    {
+      "segentID": 56,
+      "word": "love",
+      "start": 294.28,
+      "end": 294.44
+    },
+    {
+      "segentID": 56,
+      "word": "them.",
+      "start": 294.44,
+      "end": 294.88
+    },
+    {
+      "segentID": 57,
+      "word": "And",
+      "start": 295.5,
+      "end": 296.08
+    },
+    {
+      "segentID": 57,
+      "word": "if",
+      "start": 296.08,
+      "end": 296.24
+    },
+    {
+      "segentID": 57,
+      "word": "you",
+      "start": 296.24,
+      "end": 296.44
+    },
+    {
+      "segentID": 57,
+      "word": "do",
+      "start": 296.44,
+      "end": 296.7
+    },
+    {
+      "segentID": 57,
+      "word": "good",
+      "start": 296.7,
+      "end": 297.16
+    },
+    {
+      "segentID": 57,
+      "word": "to",
+      "start": 297.16,
+      "end": 297.26
+    },
+    {
+      "segentID": 57,
+      "word": "those",
+      "start": 297.26,
+      "end": 297.48
+    },
+    {
+      "segentID": 57,
+      "word": "who",
+      "start": 297.48,
+      "end": 297.68
+    },
+    {
+      "segentID": 57,
+      "word": "do",
+      "start": 297.68,
+      "end": 297.86
+    },
+    {
+      "segentID": 57,
+      "word": "good",
+      "start": 297.86,
+      "end": 298.08
+    },
+    {
+      "segentID": 57,
+      "word": "to",
+      "start": 298.08,
+      "end": 298.22
+    },
+    {
+      "segentID": 57,
+      "word": "you,",
+      "start": 298.22,
+      "end": 298.38
+    },
+    {
+      "segentID": 57,
+      "word": "what",
+      "start": 298.54,
+      "end": 298.66
+    },
+    {
+      "segentID": 57,
+      "word": "credit",
+      "start": 298.66,
+      "end": 298.96
+    },
+    {
+      "segentID": 57,
+      "word": "is",
+      "start": 298.96,
+      "end": 299.18
+    },
+    {
+      "segentID": 57,
+      "word": "that",
+      "start": 299.18,
+      "end": 299.48
+    },
+    {
+      "segentID": 57,
+      "word": "to",
+      "start": 299.48,
+      "end": 299.64
+    },
+    {
+      "segentID": 57,
+      "word": "you,",
+      "start": 299.64,
+      "end": 300.1
+    },
+    {
+      "segentID": 57,
+      "word": "even",
+      "start": 300.26,
+      "end": 300.7
+    },
+    {
+      "segentID": 57,
+      "word": "sinners",
+      "start": 300.7,
+      "end": 300.96
+    },
+    {
+      "segentID": 58,
+      "word": "do",
+      "start": 300.96,
+      "end": 301.18
+    },
+    {
+      "segentID": 58,
+      "word": "the",
+      "start": 301.18,
+      "end": 301.4
+    },
+    {
+      "segentID": 58,
+      "word": "same.",
+      "start": 301.4,
+      "end": 301.78
+    },
+    {
+      "segentID": 59,
+      "word": "And",
+      "start": 302.66,
+      "end": 302.86
+    },
+    {
+      "segentID": 59,
+      "word": "if",
+      "start": 302.86,
+      "end": 303.02
+    },
+    {
+      "segentID": 59,
+      "word": "you",
+      "start": 303.02,
+      "end": 303.42
+    },
+    {
+      "segentID": 59,
+      "word": "lend",
+      "start": 303.42,
+      "end": 303.88
+    },
+    {
+      "segentID": 59,
+      "word": "to",
+      "start": 303.88,
+      "end": 304.28
+    },
+    {
+      "segentID": 59,
+      "word": "those",
+      "start": 304.28,
+      "end": 304.66
+    },
+    {
+      "segentID": 59,
+      "word": "from",
+      "start": 304.66,
+      "end": 305.0
+    },
+    {
+      "segentID": 59,
+      "word": "whom",
+      "start": 305.0,
+      "end": 305.12
+    },
+    {
+      "segentID": 59,
+      "word": "you",
+      "start": 305.12,
+      "end": 305.4
+    },
+    {
+      "segentID": 59,
+      "word": "hope",
+      "start": 305.4,
+      "end": 305.56
+    },
+    {
+      "segentID": 59,
+      "word": "to",
+      "start": 305.56,
+      "end": 305.76
+    },
+    {
+      "segentID": 59,
+      "word": "be",
+      "start": 305.76,
+      "end": 306.04
+    },
+    {
+      "segentID": 59,
+      "word": "repaid,",
+      "start": 306.04,
+      "end": 306.76
+    },
+    {
+      "segentID": 59,
+      "word": "what",
+      "start": 307.5,
+      "end": 307.72
+    },
+    {
+      "segentID": 59,
+      "word": "credit",
+      "start": 307.72,
+      "end": 307.96
+    },
+    {
+      "segentID": 59,
+      "word": "is",
+      "start": 307.96,
+      "end": 308.22
+    },
+    {
+      "segentID": 59,
+      "word": "that",
+      "start": 308.22,
+      "end": 308.46
+    },
+    {
+      "segentID": 59,
+      "word": "to",
+      "start": 308.46,
+      "end": 308.66
+    },
+    {
+      "segentID": 59,
+      "word": "you,",
+      "start": 308.66,
+      "end": 309.22
+    },
+    {
+      "segentID": 60,
+      "word": "even",
+      "start": 309.52,
+      "end": 310.0
+    },
+    {
+      "segentID": 60,
+      "word": "sinners",
+      "start": 310.0,
+      "end": 310.5
+    },
+    {
+      "segentID": 60,
+      "word": "lend",
+      "start": 310.5,
+      "end": 310.94
+    },
+    {
+      "segentID": 60,
+      "word": "to",
+      "start": 310.94,
+      "end": 311.36
+    },
+    {
+      "segentID": 60,
+      "word": "sinners",
+      "start": 311.36,
+      "end": 311.7
+    },
+    {
+      "segentID": 60,
+      "word": "so",
+      "start": 311.7,
+      "end": 311.96
+    },
+    {
+      "segentID": 60,
+      "word": "that",
+      "start": 311.96,
+      "end": 312.04
+    },
+    {
+      "segentID": 60,
+      "word": "they",
+      "start": 312.04,
+      "end": 312.18
+    },
+    {
+      "segentID": 60,
+      "word": "may",
+      "start": 312.18,
+      "end": 312.36
+    },
+    {
+      "segentID": 60,
+      "word": "be",
+      "start": 312.36,
+      "end": 312.6
+    },
+    {
+      "segentID": 60,
+      "word": "repaid",
+      "start": 312.6,
+      "end": 312.9
+    },
+    {
+      "segentID": 60,
+      "word": "in",
+      "start": 312.9,
+      "end": 313.24
+    },
+    {
+      "segentID": 60,
+      "word": "full.",
+      "start": 313.24,
+      "end": 313.54
+    },
+    {
+      "segentID": 61,
+      "word": "But",
+      "start": 314.48,
+      "end": 314.78
+    },
+    {
+      "segentID": 61,
+      "word": "love",
+      "start": 314.78,
+      "end": 315.06
+    },
+    {
+      "segentID": 61,
+      "word": "your",
+      "start": 315.06,
+      "end": 315.26
+    },
+    {
+      "segentID": 61,
+      "word": "enemies",
+      "start": 315.26,
+      "end": 315.68
+    },
+    {
+      "segentID": 61,
+      "word": "and",
+      "start": 315.68,
+      "end": 316.52
+    },
+    {
+      "segentID": 61,
+      "word": "do",
+      "start": 316.52,
+      "end": 316.84
+    },
+    {
+      "segentID": 61,
+      "word": "good",
+      "start": 316.84,
+      "end": 317.28
+    },
+    {
+      "segentID": 61,
+      "word": "and",
+      "start": 317.28,
+      "end": 317.68
+    },
+    {
+      "segentID": 61,
+      "word": "lend",
+      "start": 317.68,
+      "end": 318.26
+    },
+    {
+      "segentID": 61,
+      "word": "expecting",
+      "start": 318.26,
+      "end": 318.96
+    },
+    {
+      "segentID": 61,
+      "word": "nothing",
+      "start": 318.96,
+      "end": 319.74
+    },
+    {
+      "segentID": 61,
+      "word": "back.",
+      "start": 319.74,
+      "end": 320.34
+    },
+    {
+      "segentID": 62,
+      "word": "Then",
+      "start": 321.1,
+      "end": 321.48
+    },
+    {
+      "segentID": 62,
+      "word": "your",
+      "start": 321.48,
+      "end": 321.92
+    },
+    {
+      "segentID": 62,
+      "word": "reward",
+      "start": 321.92,
+      "end": 322.36
+    },
+    {
+      "segentID": 62,
+      "word": "will",
+      "start": 322.36,
+      "end": 322.6
+    },
+    {
+      "segentID": 62,
+      "word": "be",
+      "start": 322.6,
+      "end": 323.02
+    },
+    {
+      "segentID": 62,
+      "word": "great",
+      "start": 323.02,
+      "end": 323.82
+    },
+    {
+      "segentID": 62,
+      "word": "and",
+      "start": 323.82,
+      "end": 324.56
+    },
+    {
+      "segentID": 62,
+      "word": "you",
+      "start": 324.56,
+      "end": 324.86
+    },
+    {
+      "segentID": 62,
+      "word": "will",
+      "start": 324.86,
+      "end": 325.08
+    },
+    {
+      "segentID": 62,
+      "word": "be",
+      "start": 325.08,
+      "end": 325.46
+    },
+    {
+      "segentID": 62,
+      "word": "sons",
+      "start": 325.46,
+      "end": 325.88
+    },
+    {
+      "segentID": 62,
+      "word": "of",
+      "start": 325.88,
+      "end": 326.04
+    },
+    {
+      "segentID": 62,
+      "word": "the",
+      "start": 326.04,
+      "end": 326.32
+    },
+    {
+      "segentID": 62,
+      "word": "Most",
+      "start": 326.32,
+      "end": 326.66
+    },
+    {
+      "segentID": 62,
+      "word": "High",
+      "start": 326.66,
+      "end": 326.88
+    },
+    {
+      "segentID": 62,
+      "word": "because",
+      "start": 326.88,
+      "end": 327.2
+    },
+    {
+      "segentID": 62,
+      "word": "He",
+      "start": 327.2,
+      "end": 327.54
+    },
+    {
+      "segentID": 62,
+      "word": "is",
+      "start": 327.54,
+      "end": 327.92
+    },
+    {
+      "segentID": 62,
+      "word": "kind",
+      "start": 327.92,
+      "end": 328.54
+    },
+    {
+      "segentID": 63,
+      "word": "to",
+      "start": 328.54,
+      "end": 328.88
+    },
+    {
+      "segentID": 63,
+      "word": "ungrateful",
+      "start": 328.88,
+      "end": 329.54
+    },
+    {
+      "segentID": 63,
+      "word": "and",
+      "start": 329.54,
+      "end": 330.06
+    },
+    {
+      "segentID": 63,
+      "word": "evil",
+      "start": 330.06,
+      "end": 330.44
+    },
+    {
+      "segentID": 63,
+      "word": "people.",
+      "start": 330.44,
+      "end": 331.18
+    },
+    {
+      "segentID": 64,
+      "word": "Be",
+      "start": 332.18,
+      "end": 332.42
+    },
+    {
+      "segentID": 64,
+      "word": "merciful",
+      "start": 332.42,
+      "end": 333.08
+    },
+    {
+      "segentID": 64,
+      "word": "just",
+      "start": 333.08,
+      "end": 334.12
+    },
+    {
+      "segentID": 64,
+      "word": "as",
+      "start": 334.12,
+      "end": 334.4
+    },
+    {
+      "segentID": 64,
+      "word": "your",
+      "start": 334.4,
+      "end": 334.8
+    },
+    {
+      "segentID": 64,
+      "word": "Father",
+      "start": 334.8,
+      "end": 335.36
+    },
+    {
+      "segentID": 64,
+      "word": "is",
+      "start": 335.36,
+      "end": 335.82
+    },
+    {
+      "segentID": 64,
+      "word": "merciful.",
+      "start": 335.82,
+      "end": 336.44
+    },
+    {
+      "segentID": 65,
+      "word": "Do",
+      "start": 338.66,
+      "end": 338.88
+    },
+    {
+      "segentID": 65,
+      "word": "not",
+      "start": 338.88,
+      "end": 339.18
+    },
+    {
+      "segentID": 65,
+      "word": "judge",
+      "start": 339.18,
+      "end": 339.7
+    },
+    {
+      "segentID": 65,
+      "word": "and",
+      "start": 339.7,
+      "end": 340.92
+    },
+    {
+      "segentID": 65,
+      "word": "you",
+      "start": 340.92,
+      "end": 341.5
+    },
+    {
+      "segentID": 65,
+      "word": "will",
+      "start": 341.5,
+      "end": 342.08
+    },
+    {
+      "segentID": 65,
+      "word": "not",
+      "start": 342.08,
+      "end": 342.32
+    },
+    {
+      "segentID": 65,
+      "word": "be",
+      "start": 342.32,
+      "end": 342.62
+    },
+    {
+      "segentID": 65,
+      "word": "judged.",
+      "start": 342.62,
+      "end": 342.98
+    },
+    {
+      "segentID": 66,
+      "word": "Do",
+      "start": 343.22,
+      "end": 343.38
+    },
+    {
+      "segentID": 66,
+      "word": "not",
+      "start": 343.38,
+      "end": 343.62
+    },
+    {
+      "segentID": 66,
+      "word": "condemn",
+      "start": 343.62,
+      "end": 344.06
+    },
+    {
+      "segentID": 66,
+      "word": "and",
+      "start": 344.06,
+      "end": 345.1
+    },
+    {
+      "segentID": 66,
+      "word": "you",
+      "start": 345.1,
+      "end": 345.5
+    },
+    {
+      "segentID": 66,
+      "word": "will",
+      "start": 345.5,
+      "end": 345.78
+    },
+    {
+      "segentID": 66,
+      "word": "not",
+      "start": 345.78,
+      "end": 346.02
+    },
+    {
+      "segentID": 66,
+      "word": "be",
+      "start": 346.02,
+      "end": 346.28
+    },
+    {
+      "segentID": 66,
+      "word": "condemned.",
+      "start": 346.28,
+      "end": 346.74
+    },
+    {
+      "segentID": 67,
+      "word": "Forgive",
+      "start": 346.94,
+      "end": 347.42
+    },
+    {
+      "segentID": 67,
+      "word": "and",
+      "start": 347.42,
+      "end": 347.92
+    },
+    {
+      "segentID": 67,
+      "word": "you",
+      "start": 347.92,
+      "end": 348.12
+    },
+    {
+      "segentID": 67,
+      "word": "will",
+      "start": 348.12,
+      "end": 348.4
+    },
+    {
+      "segentID": 67,
+      "word": "be",
+      "start": 348.4,
+      "end": 348.7
+    },
+    {
+      "segentID": 67,
+      "word": "forgiven.",
+      "start": 348.7,
+      "end": 349.08
+    },
+    {
+      "segentID": 68,
+      "word": "Give",
+      "start": 349.08,
+      "end": 350.06
+    },
+    {
+      "segentID": 68,
+      "word": "and",
+      "start": 350.06,
+      "end": 350.24
+    },
+    {
+      "segentID": 68,
+      "word": "it",
+      "start": 350.24,
+      "end": 350.36
+    },
+    {
+      "segentID": 68,
+      "word": "will",
+      "start": 350.36,
+      "end": 350.54
+    },
+    {
+      "segentID": 68,
+      "word": "be",
+      "start": 350.54,
+      "end": 350.74
+    },
+    {
+      "segentID": 68,
+      "word": "given",
+      "start": 350.74,
+      "end": 350.88
+    },
+    {
+      "segentID": 68,
+      "word": "to",
+      "start": 350.88,
+      "end": 351.12
+    },
+    {
+      "segentID": 68,
+      "word": "you.",
+      "start": 351.12,
+      "end": 351.96
+    },
+    {
+      "segentID": 69,
+      "word": "A",
+      "start": 352.22,
+      "end": 352.76
+    },
+    {
+      "segentID": 69,
+      "word": "good",
+      "start": 352.76,
+      "end": 353.02
+    },
+    {
+      "segentID": 69,
+      "word": "measure,",
+      "start": 353.02,
+      "end": 353.46
+    },
+    {
+      "segentID": 69,
+      "word": "pressed",
+      "start": 353.8,
+      "end": 354.14
+    },
+    {
+      "segentID": 69,
+      "word": "down,",
+      "start": 354.14,
+      "end": 354.6
+    },
+    {
+      "segentID": 69,
+      "word": "shaken",
+      "start": 354.8,
+      "end": 354.9
+    },
+    {
+      "segentID": 69,
+      "word": "together,",
+      "start": 354.9,
+      "end": 355.28
+    },
+    {
+      "segentID": 69,
+      "word": "running",
+      "start": 355.48,
+      "end": 355.6
+    },
+    {
+      "segentID": 69,
+      "word": "over,",
+      "start": 355.6,
+      "end": 356.1
+    },
+    {
+      "segentID": 69,
+      "word": "will",
+      "start": 356.18,
+      "end": 356.32
+    },
+    {
+      "segentID": 69,
+      "word": "be",
+      "start": 356.32,
+      "end": 356.6
+    },
+    {
+      "segentID": 69,
+      "word": "poured",
+      "start": 356.6,
+      "end": 356.8
+    },
+    {
+      "segentID": 69,
+      "word": "into",
+      "start": 356.8,
+      "end": 357.0
+    },
+    {
+      "segentID": 69,
+      "word": "your",
+      "start": 357.0,
+      "end": 357.26
+    },
+    {
+      "segentID": 69,
+      "word": "lap.",
+      "start": 357.26,
+      "end": 357.62
+    },
+    {
+      "segentID": 70,
+      "word": "For",
+      "start": 358.28,
+      "end": 358.4
+    },
+    {
+      "segentID": 70,
+      "word": "the",
+      "start": 358.4,
+      "end": 358.7
+    },
+    {
+      "segentID": 70,
+      "word": "measure",
+      "start": 358.7,
+      "end": 358.98
+    },
+    {
+      "segentID": 70,
+      "word": "you",
+      "start": 358.98,
+      "end": 359.4
+    },
+    {
+      "segentID": 70,
+      "word": "use",
+      "start": 359.4,
+      "end": 359.78
+    },
+    {
+      "segentID": 70,
+      "word": "will",
+      "start": 359.78,
+      "end": 360.04
+    },
+    {
+      "segentID": 70,
+      "word": "be",
+      "start": 360.04,
+      "end": 360.26
+    },
+    {
+      "segentID": 70,
+      "word": "the",
+      "start": 360.26,
+      "end": 360.5
+    },
+    {
+      "segentID": 70,
+      "word": "measure",
+      "start": 360.5,
+      "end": 360.96
+    },
+    {
+      "segentID": 70,
+      "word": "you",
+      "start": 360.96,
+      "end": 361.62
+    },
+    {
+      "segentID": 70,
+      "word": "receive.",
+      "start": 361.62,
+      "end": 362.32
+    },
+    {
+      "segentID": 71,
+      "word": "He",
+      "start": 363.58,
+      "end": 364.06
+    },
+    {
+      "segentID": 71,
+      "word": "also",
+      "start": 364.06,
+      "end": 364.38
+    },
+    {
+      "segentID": 71,
+      "word": "told",
+      "start": 364.38,
+      "end": 364.56
+    },
+    {
+      "segentID": 71,
+      "word": "them",
+      "start": 364.56,
+      "end": 364.76
+    },
+    {
+      "segentID": 71,
+      "word": "a",
+      "start": 364.76,
+      "end": 364.98
+    },
+    {
+      "segentID": 71,
+      "word": "parable.",
+      "start": 364.98,
+      "end": 365.38
+    },
+    {
+      "segentID": 72,
+      "word": "A",
+      "start": 366.64,
+      "end": 366.96
+    },
+    {
+      "segentID": 72,
+      "word": "blind",
+      "start": 366.96,
+      "end": 367.22
+    },
+    {
+      "segentID": 72,
+      "word": "man",
+      "start": 367.22,
+      "end": 368.06
+    },
+    {
+      "segentID": 72,
+      "word": "cannot",
+      "start": 368.06,
+      "end": 368.64
+    },
+    {
+      "segentID": 72,
+      "word": "lead",
+      "start": 368.64,
+      "end": 369.06
+    },
+    {
+      "segentID": 72,
+      "word": "a",
+      "start": 369.06,
+      "end": 369.46
+    },
+    {
+      "segentID": 72,
+      "word": "blind",
+      "start": 369.46,
+      "end": 369.8
+    },
+    {
+      "segentID": 72,
+      "word": "man,",
+      "start": 369.8,
+      "end": 370.12
+    },
+    {
+      "segentID": 72,
+      "word": "can",
+      "start": 370.2,
+      "end": 370.34
+    },
+    {
+      "segentID": 72,
+      "word": "he?",
+      "start": 370.34,
+      "end": 370.66
+    },
+    {
+      "segentID": 73,
+      "word": "Won't",
+      "start": 371.3,
+      "end": 371.52
+    },
+    {
+      "segentID": 73,
+      "word": "they",
+      "start": 371.52,
+      "end": 371.78
+    },
+    {
+      "segentID": 73,
+      "word": "both",
+      "start": 371.78,
+      "end": 371.98
+    },
+    {
+      "segentID": 73,
+      "word": "fall",
+      "start": 371.98,
+      "end": 372.24
+    },
+    {
+      "segentID": 73,
+      "word": "into",
+      "start": 372.24,
+      "end": 372.48
+    },
+    {
+      "segentID": 73,
+      "word": "a",
+      "start": 372.48,
+      "end": 372.64
+    },
+    {
+      "segentID": 73,
+      "word": "pit?",
+      "start": 372.64,
+      "end": 372.8
+    },
+    {
+      "segentID": 74,
+      "word": "A",
+      "start": 373.64,
+      "end": 374.2
+    },
+    {
+      "segentID": 74,
+      "word": "disciple",
+      "start": 374.2,
+      "end": 374.76
+    },
+    {
+      "segentID": 74,
+      "word": "is",
+      "start": 374.76,
+      "end": 375.08
+    },
+    {
+      "segentID": 74,
+      "word": "not",
+      "start": 375.08,
+      "end": 375.44
+    },
+    {
+      "segentID": 74,
+      "word": "greater",
+      "start": 375.44,
+      "end": 375.78
+    },
+    {
+      "segentID": 74,
+      "word": "than",
+      "start": 375.78,
+      "end": 375.98
+    },
+    {
+      "segentID": 74,
+      "word": "his",
+      "start": 375.98,
+      "end": 376.3
+    },
+    {
+      "segentID": 74,
+      "word": "teacher,",
+      "start": 376.3,
+      "end": 376.72
+    },
+    {
+      "segentID": 74,
+      "word": "but",
+      "start": 377.46,
+      "end": 377.58
+    },
+    {
+      "segentID": 74,
+      "word": "everyone,",
+      "start": 377.58,
+      "end": 378.08
+    },
+    {
+      "segentID": 74,
+      "word": "when",
+      "start": 378.26,
+      "end": 378.6
+    },
+    {
+      "segentID": 74,
+      "word": "fully",
+      "start": 378.6,
+      "end": 378.82
+    },
+    {
+      "segentID": 74,
+      "word": "trained,",
+      "start": 378.82,
+      "end": 379.32
+    },
+    {
+      "segentID": 74,
+      "word": "will",
+      "start": 379.4,
+      "end": 379.62
+    },
+    {
+      "segentID": 74,
+      "word": "be",
+      "start": 379.62,
+      "end": 379.9
+    },
+    {
+      "segentID": 75,
+      "word": "like",
+      "start": 379.9,
+      "end": 380.26
+    },
+    {
+      "segentID": 75,
+      "word": "his",
+      "start": 380.26,
+      "end": 380.56
+    },
+    {
+      "segentID": 75,
+      "word": "teacher.",
+      "start": 380.56,
+      "end": 380.9
+    },
+    {
+      "segentID": 76,
+      "word": "Why",
+      "start": 381.1,
+      "end": 381.44
+    },
+    {
+      "segentID": 76,
+      "word": "do",
+      "start": 381.44,
+      "end": 381.64
+    },
+    {
+      "segentID": 76,
+      "word": "you",
+      "start": 381.64,
+      "end": 381.82
+    },
+    {
+      "segentID": 76,
+      "word": "see",
+      "start": 381.82,
+      "end": 382.02
+    },
+    {
+      "segentID": 76,
+      "word": "the",
+      "start": 382.02,
+      "end": 382.3
+    },
+    {
+      "segentID": 76,
+      "word": "speck",
+      "start": 382.3,
+      "end": 382.44
+    },
+    {
+      "segentID": 76,
+      "word": "in",
+      "start": 382.44,
+      "end": 382.56
+    },
+    {
+      "segentID": 76,
+      "word": "your",
+      "start": 382.56,
+      "end": 382.82
+    },
+    {
+      "segentID": 76,
+      "word": "brother's",
+      "start": 382.82,
+      "end": 383.16
+    },
+    {
+      "segentID": 76,
+      "word": "eye",
+      "start": 383.16,
+      "end": 383.28
+    },
+    {
+      "segentID": 76,
+      "word": "but",
+      "start": 383.28,
+      "end": 383.42
+    },
+    {
+      "segentID": 76,
+      "word": "fail",
+      "start": 383.42,
+      "end": 383.7
+    },
+    {
+      "segentID": 76,
+      "word": "to",
+      "start": 383.7,
+      "end": 383.9
+    },
+    {
+      "segentID": 76,
+      "word": "see",
+      "start": 383.9,
+      "end": 384.14
+    },
+    {
+      "segentID": 76,
+      "word": "the",
+      "start": 384.14,
+      "end": 384.74
+    },
+    {
+      "segentID": 76,
+      "word": "beam",
+      "start": 384.74,
+      "end": 385.04
+    },
+    {
+      "segentID": 76,
+      "word": "of",
+      "start": 385.04,
+      "end": 385.36
+    },
+    {
+      "segentID": 76,
+      "word": "wood",
+      "start": 385.36,
+      "end": 385.6
+    },
+    {
+      "segentID": 76,
+      "word": "in",
+      "start": 385.6,
+      "end": 385.76
+    },
+    {
+      "segentID": 76,
+      "word": "your",
+      "start": 385.76,
+      "end": 386.1
+    },
+    {
+      "segentID": 77,
+      "word": "own?",
+      "start": 386.1,
+      "end": 386.3
+    },
+    {
+      "segentID": 78,
+      "word": "How",
+      "start": 386.94,
+      "end": 387.2
+    },
+    {
+      "segentID": 78,
+      "word": "can",
+      "start": 387.2,
+      "end": 387.38
+    },
+    {
+      "segentID": 78,
+      "word": "you",
+      "start": 387.38,
+      "end": 387.48
+    },
+    {
+      "segentID": 78,
+      "word": "say",
+      "start": 387.48,
+      "end": 387.64
+    },
+    {
+      "segentID": 78,
+      "word": "to",
+      "start": 387.64,
+      "end": 387.76
+    },
+    {
+      "segentID": 78,
+      "word": "your",
+      "start": 387.76,
+      "end": 387.92
+    },
+    {
+      "segentID": 78,
+      "word": "brother,",
+      "start": 387.92,
+      "end": 388.12
+    },
+    {
+      "segentID": 78,
+      "word": "brother,",
+      "start": 388.26,
+      "end": 388.6
+    },
+    {
+      "segentID": 78,
+      "word": "let",
+      "start": 388.82,
+      "end": 389.04
+    },
+    {
+      "segentID": 78,
+      "word": "me",
+      "start": 389.04,
+      "end": 389.26
+    },
+    {
+      "segentID": 78,
+      "word": "remove",
+      "start": 389.26,
+      "end": 389.5
+    },
+    {
+      "segentID": 78,
+      "word": "the",
+      "start": 389.5,
+      "end": 389.78
+    },
+    {
+      "segentID": 78,
+      "word": "speck",
+      "start": 389.78,
+      "end": 389.9
+    },
+    {
+      "segentID": 78,
+      "word": "from",
+      "start": 389.9,
+      "end": 390.08
+    },
+    {
+      "segentID": 78,
+      "word": "your",
+      "start": 390.08,
+      "end": 390.4
+    },
+    {
+      "segentID": 78,
+      "word": "eye",
+      "start": 390.4,
+      "end": 390.64
+    },
+    {
+      "segentID": 78,
+      "word": "while",
+      "start": 390.64,
+      "end": 391.04
+    },
+    {
+      "segentID": 79,
+      "word": "you",
+      "start": 391.04,
+      "end": 391.42
+    },
+    {
+      "segentID": 79,
+      "word": "yourself",
+      "start": 391.42,
+      "end": 391.96
+    },
+    {
+      "segentID": 79,
+      "word": "don't",
+      "start": 391.96,
+      "end": 392.26
+    },
+    {
+      "segentID": 79,
+      "word": "see",
+      "start": 392.26,
+      "end": 392.5
+    },
+    {
+      "segentID": 79,
+      "word": "the",
+      "start": 392.5,
+      "end": 393.02
+    },
+    {
+      "segentID": 79,
+      "word": "beam",
+      "start": 393.02,
+      "end": 393.4
+    },
+    {
+      "segentID": 79,
+      "word": "in",
+      "start": 393.4,
+      "end": 393.6
+    },
+    {
+      "segentID": 79,
+      "word": "your",
+      "start": 393.6,
+      "end": 393.9
+    },
+    {
+      "segentID": 79,
+      "word": "own,",
+      "start": 393.9,
+      "end": 394.22
+    },
+    {
+      "segentID": 79,
+      "word": "you",
+      "start": 394.7,
+      "end": 395.06
+    },
+    {
+      "segentID": 79,
+      "word": "hypocrite?",
+      "start": 395.06,
+      "end": 396.06
+    },
+    {
+      "segentID": 80,
+      "word": "First",
+      "start": 396.06,
+      "end": 396.78
+    },
+    {
+      "segentID": 80,
+      "word": "remove",
+      "start": 396.78,
+      "end": 397.12
+    },
+    {
+      "segentID": 80,
+      "word": "the",
+      "start": 397.12,
+      "end": 397.4
+    },
+    {
+      "segentID": 80,
+      "word": "beam",
+      "start": 397.4,
+      "end": 397.58
+    },
+    {
+      "segentID": 80,
+      "word": "from",
+      "start": 397.58,
+      "end": 397.78
+    },
+    {
+      "segentID": 80,
+      "word": "your",
+      "start": 397.78,
+      "end": 398.08
+    },
+    {
+      "segentID": 80,
+      "word": "own",
+      "start": 398.08,
+      "end": 398.32
+    },
+    {
+      "segentID": 80,
+      "word": "eye",
+      "start": 398.32,
+      "end": 398.66
+    },
+    {
+      "segentID": 80,
+      "word": "and",
+      "start": 398.66,
+      "end": 399.16
+    },
+    {
+      "segentID": 80,
+      "word": "then",
+      "start": 399.16,
+      "end": 399.36
+    },
+    {
+      "segentID": 80,
+      "word": "you",
+      "start": 399.36,
+      "end": 399.48
+    },
+    {
+      "segentID": 80,
+      "word": "can",
+      "start": 399.48,
+      "end": 399.72
+    },
+    {
+      "segentID": 80,
+      "word": "see",
+      "start": 399.72,
+      "end": 399.96
+    },
+    {
+      "segentID": 80,
+      "word": "clearly",
+      "start": 399.96,
+      "end": 400.38
+    },
+    {
+      "segentID": 80,
+      "word": "to",
+      "start": 400.38,
+      "end": 400.86
+    },
+    {
+      "segentID": 80,
+      "word": "remove",
+      "start": 400.86,
+      "end": 401.14
+    },
+    {
+      "segentID": 80,
+      "word": "the",
+      "start": 401.14,
+      "end": 401.88
+    },
+    {
+      "segentID": 80,
+      "word": "speck",
+      "start": 401.88,
+      "end": 402.58
+    },
+    {
+      "segentID": 81,
+      "word": "from",
+      "start": 402.58,
+      "end": 402.96
+    },
+    {
+      "segentID": 81,
+      "word": "your",
+      "start": 402.96,
+      "end": 403.26
+    },
+    {
+      "segentID": 81,
+      "word": "brother's",
+      "start": 403.26,
+      "end": 403.84
+    },
+    {
+      "segentID": 81,
+      "word": "eye.",
+      "start": 403.84,
+      "end": 404.56
+    },
+    {
+      "segentID": 82,
+      "word": "For",
+      "start": 405.66,
+      "end": 405.66
+    },
+    {
+      "segentID": 82,
+      "word": "no",
+      "start": 405.66,
+      "end": 406.12
+    },
+    {
+      "segentID": 82,
+      "word": "good",
+      "start": 406.12,
+      "end": 406.44
+    },
+    {
+      "segentID": 82,
+      "word": "tree",
+      "start": 406.44,
+      "end": 406.76
+    },
+    {
+      "segentID": 82,
+      "word": "bears",
+      "start": 406.76,
+      "end": 407.14
+    },
+    {
+      "segentID": 82,
+      "word": "bad",
+      "start": 407.14,
+      "end": 407.62
+    },
+    {
+      "segentID": 82,
+      "word": "fruit,",
+      "start": 407.62,
+      "end": 408.22
+    },
+    {
+      "segentID": 82,
+      "word": "nor",
+      "start": 408.52,
+      "end": 408.66
+    },
+    {
+      "segentID": 82,
+      "word": "again",
+      "start": 408.66,
+      "end": 409.14
+    },
+    {
+      "segentID": 82,
+      "word": "does",
+      "start": 409.14,
+      "end": 409.3
+    },
+    {
+      "segentID": 82,
+      "word": "a",
+      "start": 409.3,
+      "end": 409.52
+    },
+    {
+      "segentID": 82,
+      "word": "bad",
+      "start": 409.52,
+      "end": 409.78
+    },
+    {
+      "segentID": 82,
+      "word": "tree",
+      "start": 409.78,
+      "end": 410.1
+    },
+    {
+      "segentID": 82,
+      "word": "bear",
+      "start": 410.1,
+      "end": 410.32
+    },
+    {
+      "segentID": 82,
+      "word": "good",
+      "start": 410.32,
+      "end": 410.58
+    },
+    {
+      "segentID": 82,
+      "word": "fruit,",
+      "start": 410.58,
+      "end": 410.96
+    },
+    {
+      "segentID": 82,
+      "word": "for",
+      "start": 411.36,
+      "end": 411.6
+    },
+    {
+      "segentID": 82,
+      "word": "each",
+      "start": 411.6,
+      "end": 412.04
+    },
+    {
+      "segentID": 83,
+      "word": "tree",
+      "start": 412.04,
+      "end": 412.4
+    },
+    {
+      "segentID": 83,
+      "word": "is",
+      "start": 412.4,
+      "end": 412.86
+    },
+    {
+      "segentID": 83,
+      "word": "known",
+      "start": 412.86,
+      "end": 413.36
+    },
+    {
+      "segentID": 83,
+      "word": "by",
+      "start": 413.36,
+      "end": 414.06
+    },
+    {
+      "segentID": 83,
+      "word": "its",
+      "start": 414.06,
+      "end": 414.44
+    },
+    {
+      "segentID": 83,
+      "word": "own",
+      "start": 414.44,
+      "end": 415.04
+    },
+    {
+      "segentID": 83,
+      "word": "fruit.",
+      "start": 415.04,
+      "end": 415.54
+    },
+    {
+      "segentID": 84,
+      "word": "For",
+      "start": 416.38,
+      "end": 416.68
+    },
+    {
+      "segentID": 84,
+      "word": "figs",
+      "start": 416.68,
+      "end": 417.02
+    },
+    {
+      "segentID": 84,
+      "word": "are",
+      "start": 417.02,
+      "end": 417.18
+    },
+    {
+      "segentID": 84,
+      "word": "not",
+      "start": 417.18,
+      "end": 417.44
+    },
+    {
+      "segentID": 84,
+      "word": "gathered",
+      "start": 417.44,
+      "end": 417.78
+    },
+    {
+      "segentID": 84,
+      "word": "from",
+      "start": 417.78,
+      "end": 418.24
+    },
+    {
+      "segentID": 84,
+      "word": "thorns,",
+      "start": 418.24,
+      "end": 418.58
+    },
+    {
+      "segentID": 84,
+      "word": "nor",
+      "start": 418.68,
+      "end": 418.96
+    },
+    {
+      "segentID": 84,
+      "word": "are",
+      "start": 418.96,
+      "end": 419.44
+    },
+    {
+      "segentID": 84,
+      "word": "grapes",
+      "start": 419.44,
+      "end": 419.8
+    },
+    {
+      "segentID": 84,
+      "word": "picked",
+      "start": 419.8,
+      "end": 420.12
+    },
+    {
+      "segentID": 84,
+      "word": "from",
+      "start": 420.12,
+      "end": 420.44
+    },
+    {
+      "segentID": 84,
+      "word": "rapels.",
+      "start": 420.44,
+      "end": 421.22
+    },
+    {
+      "segentID": 85,
+      "word": "The",
+      "start": 421.59999999999997,
+      "end": 421.96
+    },
+    {
+      "segentID": 85,
+      "word": "good",
+      "start": 421.96,
+      "end": 422.22
+    },
+    {
+      "segentID": 85,
+      "word": "person",
+      "start": 422.22,
+      "end": 422.94
+    },
+    {
+      "segentID": 85,
+      "word": "out",
+      "start": 422.94,
+      "end": 423.28
+    },
+    {
+      "segentID": 85,
+      "word": "of",
+      "start": 423.28,
+      "end": 423.42
+    },
+    {
+      "segentID": 85,
+      "word": "the",
+      "start": 423.42,
+      "end": 423.66
+    },
+    {
+      "segentID": 85,
+      "word": "good",
+      "start": 423.66,
+      "end": 423.9
+    },
+    {
+      "segentID": 85,
+      "word": "treasury",
+      "start": 423.9,
+      "end": 424.26
+    },
+    {
+      "segentID": 85,
+      "word": "of",
+      "start": 424.26,
+      "end": 424.38
+    },
+    {
+      "segentID": 85,
+      "word": "his",
+      "start": 424.38,
+      "end": 424.66
+    },
+    {
+      "segentID": 85,
+      "word": "heart",
+      "start": 424.66,
+      "end": 425.02
+    },
+    {
+      "segentID": 85,
+      "word": "produces",
+      "start": 425.02,
+      "end": 425.84
+    },
+    {
+      "segentID": 85,
+      "word": "good,",
+      "start": 425.84,
+      "end": 426.58
+    },
+    {
+      "segentID": 85,
+      "word": "and",
+      "start": 427.7,
+      "end": 427.92
+    },
+    {
+      "segentID": 85,
+      "word": "the",
+      "start": 427.92,
+      "end": 428.2
+    },
+    {
+      "segentID": 85,
+      "word": "evil",
+      "start": 428.2,
+      "end": 428.62
+    },
+    {
+      "segentID": 85,
+      "word": "person",
+      "start": 428.62,
+      "end": 429.22
+    },
+    {
+      "segentID": 86,
+      "word": "out",
+      "start": 429.22,
+      "end": 429.54
+    },
+    {
+      "segentID": 86,
+      "word": "of",
+      "start": 429.54,
+      "end": 429.74
+    },
+    {
+      "segentID": 86,
+      "word": "his",
+      "start": 429.74,
+      "end": 430.22
+    },
+    {
+      "segentID": 86,
+      "word": "evil",
+      "start": 430.22,
+      "end": 430.74
+    },
+    {
+      "segentID": 86,
+      "word": "treasury",
+      "start": 430.74,
+      "end": 431.32
+    },
+    {
+      "segentID": 86,
+      "word": "produces",
+      "start": 431.32,
+      "end": 432.2
+    },
+    {
+      "segentID": 86,
+      "word": "evil,",
+      "start": 432.2,
+      "end": 432.9
+    },
+    {
+      "segentID": 86,
+      "word": "for",
+      "start": 433.14,
+      "end": 433.36
+    },
+    {
+      "segentID": 86,
+      "word": "his",
+      "start": 433.36,
+      "end": 433.8
+    },
+    {
+      "segentID": 86,
+      "word": "mouth",
+      "start": 433.8,
+      "end": 434.24
+    },
+    {
+      "segentID": 86,
+      "word": "speaks",
+      "start": 434.24,
+      "end": 434.98
+    },
+    {
+      "segentID": 86,
+      "word": "from",
+      "start": 434.98,
+      "end": 435.54
+    },
+    {
+      "segentID": 86,
+      "word": "what",
+      "start": 435.54,
+      "end": 435.92
+    },
+    {
+      "segentID": 86,
+      "word": "fills",
+      "start": 435.92,
+      "end": 436.42
+    },
+    {
+      "segentID": 86,
+      "word": "his",
+      "start": 436.42,
+      "end": 436.76
+    },
+    {
+      "segentID": 86,
+      "word": "heart.",
+      "start": 436.76,
+      "end": 437.22
+    },
+    {
+      "segentID": 87,
+      "word": "Why",
+      "start": 438.52,
+      "end": 438.86
+    },
+    {
+      "segentID": 87,
+      "word": "do",
+      "start": 438.86,
+      "end": 439.06
+    },
+    {
+      "segentID": 87,
+      "word": "you",
+      "start": 439.06,
+      "end": 439.3
+    },
+    {
+      "segentID": 87,
+      "word": "call",
+      "start": 439.3,
+      "end": 439.78
+    },
+    {
+      "segentID": 87,
+      "word": "me",
+      "start": 439.78,
+      "end": 440.28
+    },
+    {
+      "segentID": 87,
+      "word": "Lord,",
+      "start": 440.28,
+      "end": 440.88
+    },
+    {
+      "segentID": 87,
+      "word": "Lord,",
+      "start": 440.88,
+      "end": 441.28
+    },
+    {
+      "segentID": 87,
+      "word": "and",
+      "start": 441.42,
+      "end": 441.68
+    },
+    {
+      "segentID": 87,
+      "word": "don't",
+      "start": 441.68,
+      "end": 442.22
+    },
+    {
+      "segentID": 87,
+      "word": "do",
+      "start": 442.22,
+      "end": 442.68
+    },
+    {
+      "segentID": 87,
+      "word": "what",
+      "start": 442.68,
+      "end": 442.92
+    },
+    {
+      "segentID": 87,
+      "word": "I",
+      "start": 442.92,
+      "end": 443.18
+    },
+    {
+      "segentID": 87,
+      "word": "tell",
+      "start": 443.18,
+      "end": 443.4
+    },
+    {
+      "segentID": 87,
+      "word": "you?",
+      "start": 443.4,
+      "end": 444.14
+    },
+    {
+      "segentID": 88,
+      "word": "Everyone",
+      "start": 444.66,
+      "end": 445.06
+    },
+    {
+      "segentID": 88,
+      "word": "who",
+      "start": 445.06,
+      "end": 445.3
+    },
+    {
+      "segentID": 88,
+      "word": "comes",
+      "start": 445.3,
+      "end": 445.54
+    },
+    {
+      "segentID": 88,
+      "word": "to",
+      "start": 445.54,
+      "end": 445.74
+    },
+    {
+      "segentID": 88,
+      "word": "me",
+      "start": 445.74,
+      "end": 445.92
+    },
+    {
+      "segentID": 88,
+      "word": "and",
+      "start": 445.92,
+      "end": 446.16
+    },
+    {
+      "segentID": 88,
+      "word": "listens",
+      "start": 446.16,
+      "end": 446.46
+    },
+    {
+      "segentID": 88,
+      "word": "to",
+      "start": 446.46,
+      "end": 446.72
+    },
+    {
+      "segentID": 88,
+      "word": "my",
+      "start": 446.72,
+      "end": 446.94
+    },
+    {
+      "segentID": 88,
+      "word": "words",
+      "start": 446.94,
+      "end": 447.24
+    },
+    {
+      "segentID": 88,
+      "word": "and",
+      "start": 447.24,
+      "end": 447.74
+    },
+    {
+      "segentID": 88,
+      "word": "puts",
+      "start": 447.74,
+      "end": 448.04
+    },
+    {
+      "segentID": 88,
+      "word": "them",
+      "start": 448.04,
+      "end": 448.34
+    },
+    {
+      "segentID": 88,
+      "word": "into",
+      "start": 448.34,
+      "end": 448.72
+    },
+    {
+      "segentID": 88,
+      "word": "practice,",
+      "start": 448.72,
+      "end": 449.5
+    },
+    {
+      "segentID": 88,
+      "word": "I",
+      "start": 450.3,
+      "end": 450.66
+    },
+    {
+      "segentID": 88,
+      "word": "will",
+      "start": 450.66,
+      "end": 450.84
+    },
+    {
+      "segentID": 89,
+      "word": "show",
+      "start": 450.84,
+      "end": 451.04
+    },
+    {
+      "segentID": 89,
+      "word": "you",
+      "start": 451.04,
+      "end": 451.08
+    },
+    {
+      "segentID": 89,
+      "word": "what",
+      "start": 451.08,
+      "end": 451.24
+    },
+    {
+      "segentID": 89,
+      "word": "he",
+      "start": 451.24,
+      "end": 451.38
+    },
+    {
+      "segentID": 89,
+      "word": "is",
+      "start": 451.38,
+      "end": 451.54
+    },
+    {
+      "segentID": 89,
+      "word": "like.",
+      "start": 451.54,
+      "end": 451.82
+    },
+    {
+      "segentID": 90,
+      "word": "He",
+      "start": 451.98,
+      "end": 452.18
+    },
+    {
+      "segentID": 90,
+      "word": "is",
+      "start": 452.18,
+      "end": 452.52
+    },
+    {
+      "segentID": 90,
+      "word": "like",
+      "start": 452.52,
+      "end": 452.96
+    },
+    {
+      "segentID": 90,
+      "word": "a",
+      "start": 452.96,
+      "end": 453.52
+    },
+    {
+      "segentID": 90,
+      "word": "man",
+      "start": 453.52,
+      "end": 453.92
+    },
+    {
+      "segentID": 90,
+      "word": "building",
+      "start": 453.92,
+      "end": 454.24
+    },
+    {
+      "segentID": 90,
+      "word": "a",
+      "start": 454.24,
+      "end": 454.52
+    },
+    {
+      "segentID": 90,
+      "word": "house",
+      "start": 454.52,
+      "end": 454.82
+    },
+    {
+      "segentID": 90,
+      "word": "who",
+      "start": 454.82,
+      "end": 455.64
+    },
+    {
+      "segentID": 90,
+      "word": "dug",
+      "start": 455.64,
+      "end": 455.96
+    },
+    {
+      "segentID": 90,
+      "word": "down",
+      "start": 455.96,
+      "end": 456.7
+    },
+    {
+      "segentID": 90,
+      "word": "deep",
+      "start": 456.7,
+      "end": 457.3
+    },
+    {
+      "segentID": 90,
+      "word": "and",
+      "start": 457.3,
+      "end": 457.76
+    },
+    {
+      "segentID": 90,
+      "word": "laid",
+      "start": 457.76,
+      "end": 457.9
+    },
+    {
+      "segentID": 90,
+      "word": "the",
+      "start": 457.9,
+      "end": 458.12
+    },
+    {
+      "segentID": 90,
+      "word": "foundation",
+      "start": 458.12,
+      "end": 458.84
+    },
+    {
+      "segentID": 90,
+      "word": "on",
+      "start": 458.84,
+      "end": 459.38
+    },
+    {
+      "segentID": 90,
+      "word": "bedrock.",
+      "start": 459.38,
+      "end": 459.9
+    },
+    {
+      "segentID": 91,
+      "word": "When",
+      "start": 459.94,
+      "end": 460.08
+    },
+    {
+      "segentID": 91,
+      "word": "a",
+      "start": 460.08,
+      "end": 460.42
+    },
+    {
+      "segentID": 91,
+      "word": "flood",
+      "start": 460.42,
+      "end": 460.6
+    },
+    {
+      "segentID": 91,
+      "word": "came,",
+      "start": 460.6,
+      "end": 460.94
+    },
+    {
+      "segentID": 91,
+      "word": "the",
+      "start": 461.2,
+      "end": 461.32
+    },
+    {
+      "segentID": 91,
+      "word": "river",
+      "start": 461.32,
+      "end": 461.58
+    },
+    {
+      "segentID": 91,
+      "word": "burst",
+      "start": 461.58,
+      "end": 462.1
+    },
+    {
+      "segentID": 91,
+      "word": "against",
+      "start": 462.1,
+      "end": 462.52
+    },
+    {
+      "segentID": 91,
+      "word": "that",
+      "start": 462.52,
+      "end": 462.86
+    },
+    {
+      "segentID": 91,
+      "word": "house",
+      "start": 462.86,
+      "end": 463.14
+    },
+    {
+      "segentID": 91,
+      "word": "but",
+      "start": 463.14,
+      "end": 463.44
+    },
+    {
+      "segentID": 91,
+      "word": "could",
+      "start": 463.44,
+      "end": 463.84
+    },
+    {
+      "segentID": 91,
+      "word": "not",
+      "start": 463.84,
+      "end": 464.16
+    },
+    {
+      "segentID": 91,
+      "word": "shake",
+      "start": 464.16,
+      "end": 464.46
+    },
+    {
+      "segentID": 91,
+      "word": "it",
+      "start": 464.46,
+      "end": 464.64
+    },
+    {
+      "segentID": 91,
+      "word": "because",
+      "start": 464.64,
+      "end": 464.92
+    },
+    {
+      "segentID": 92,
+      "word": "it",
+      "start": 464.92,
+      "end": 465.08
+    },
+    {
+      "segentID": 92,
+      "word": "had",
+      "start": 465.08,
+      "end": 465.32
+    },
+    {
+      "segentID": 92,
+      "word": "been",
+      "start": 465.32,
+      "end": 465.64
+    },
+    {
+      "segentID": 92,
+      "word": "well",
+      "start": 465.64,
+      "end": 466.08
+    },
+    {
+      "segentID": 92,
+      "word": "built.",
+      "start": 466.08,
+      "end": 466.38
+    },
+    {
+      "segentID": 93,
+      "word": "But",
+      "start": 467.18,
+      "end": 467.36
+    },
+    {
+      "segentID": 93,
+      "word": "the",
+      "start": 467.36,
+      "end": 467.5
+    },
+    {
+      "segentID": 93,
+      "word": "person",
+      "start": 467.5,
+      "end": 467.78
+    },
+    {
+      "segentID": 93,
+      "word": "who",
+      "start": 467.78,
+      "end": 468.46
+    },
+    {
+      "segentID": 93,
+      "word": "hears",
+      "start": 468.46,
+      "end": 468.9
+    },
+    {
+      "segentID": 93,
+      "word": "and",
+      "start": 468.9,
+      "end": 469.4
+    },
+    {
+      "segentID": 93,
+      "word": "does",
+      "start": 469.4,
+      "end": 469.88
+    },
+    {
+      "segentID": 93,
+      "word": "not",
+      "start": 469.88,
+      "end": 470.26
+    },
+    {
+      "segentID": 93,
+      "word": "put",
+      "start": 470.26,
+      "end": 470.48
+    },
+    {
+      "segentID": 93,
+      "word": "my",
+      "start": 470.48,
+      "end": 470.78
+    },
+    {
+      "segentID": 93,
+      "word": "words",
+      "start": 470.78,
+      "end": 471.02
+    },
+    {
+      "segentID": 93,
+      "word": "into",
+      "start": 471.02,
+      "end": 471.34
+    },
+    {
+      "segentID": 93,
+      "word": "practice",
+      "start": 471.34,
+      "end": 471.96
+    },
+    {
+      "segentID": 93,
+      "word": "is",
+      "start": 471.96,
+      "end": 472.64
+    },
+    {
+      "segentID": 93,
+      "word": "like",
+      "start": 472.64,
+      "end": 472.88
+    },
+    {
+      "segentID": 93,
+      "word": "a",
+      "start": 472.88,
+      "end": 473.04
+    },
+    {
+      "segentID": 93,
+      "word": "man",
+      "start": 473.04,
+      "end": 473.18
+    },
+    {
+      "segentID": 93,
+      "word": "who",
+      "start": 473.18,
+      "end": 473.44
+    },
+    {
+      "segentID": 93,
+      "word": "built",
+      "start": 473.44,
+      "end": 473.58
+    },
+    {
+      "segentID": 94,
+      "word": "a",
+      "start": 473.58,
+      "end": 473.8
+    },
+    {
+      "segentID": 94,
+      "word": "house",
+      "start": 473.8,
+      "end": 473.98
+    },
+    {
+      "segentID": 94,
+      "word": "on",
+      "start": 473.98,
+      "end": 474.24
+    },
+    {
+      "segentID": 94,
+      "word": "the",
+      "start": 474.24,
+      "end": 474.52
+    },
+    {
+      "segentID": 94,
+      "word": "ground",
+      "start": 474.52,
+      "end": 474.82
+    },
+    {
+      "segentID": 94,
+      "word": "without",
+      "start": 474.82,
+      "end": 475.44
+    },
+    {
+      "segentID": 94,
+      "word": "a",
+      "start": 475.44,
+      "end": 475.78
+    },
+    {
+      "segentID": 94,
+      "word": "foundation.",
+      "start": 475.78,
+      "end": 476.36
+    },
+    {
+      "segentID": 95,
+      "word": "When",
+      "start": 476.36,
+      "end": 477.26
+    },
+    {
+      "segentID": 95,
+      "word": "the",
+      "start": 477.26,
+      "end": 477.56
+    },
+    {
+      "segentID": 95,
+      "word": "river",
+      "start": 477.56,
+      "end": 477.88
+    },
+    {
+      "segentID": 95,
+      "word": "burst",
+      "start": 477.88,
+      "end": 478.48
+    },
+    {
+      "segentID": 95,
+      "word": "against",
+      "start": 478.48,
+      "end": 479.0
+    },
+    {
+      "segentID": 95,
+      "word": "that",
+      "start": 479.0,
+      "end": 479.38
+    },
+    {
+      "segentID": 95,
+      "word": "house,",
+      "start": 479.38,
+      "end": 479.66
+    },
+    {
+      "segentID": 95,
+      "word": "it",
+      "start": 479.94,
+      "end": 480.12
+    },
+    {
+      "segentID": 95,
+      "word": "collapsed",
+      "start": 480.12,
+      "end": 480.56
+    },
+    {
+      "segentID": 95,
+      "word": "immediately",
+      "start": 480.56,
+      "end": 481.24
+    },
+    {
+      "segentID": 95,
+      "word": "and",
+      "start": 481.24,
+      "end": 481.56
+    },
+    {
+      "segentID": 95,
+      "word": "was",
+      "start": 481.56,
+      "end": 481.94
+    },
+    {
+      "segentID": 95,
+      "word": "utterly",
+      "start": 481.94,
+      "end": 482.7
+    },
+    {
+      "segentID": 95,
+      "word": "destroyed.",
+      "start": 482.7,
+      "end": 483.52
+    }
+  ]
+}
